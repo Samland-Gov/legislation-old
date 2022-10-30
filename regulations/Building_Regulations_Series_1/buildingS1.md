@@ -27,3 +27,7 @@ Don't add too many Conector Tubes because you will loose your floor space!
 Ground level Conector Tubes can be brought below ground level and connect with the grid! This can be an advantage as you do not need to provide your own utilities.
 
 ### Summary
+
+![Conector Tubes and Floor Gaps](https://github.com/Samland-Gov/polices/raw/main/regulations/Building_Regulations_Series_1/images/tubes_and_connectors.png "An image with Conector Tubes and Floor Gaps.")
+
+The image above contains an example of a building which contains <a href="#floor-gaps">Floor Gaps</a> <a href="#conector-tubes">Conector Tubes</a>. The <a href="#floor-gaps">Floor Gaps</a> can be idenified by the yellow arrows. <a href="#conector-tubes">Conector Tubes</a> are shown with the purple tubes. These leave a hole where the <a href="#floor-gaps">Floor Gaps</a> are, so cables can be extended.
