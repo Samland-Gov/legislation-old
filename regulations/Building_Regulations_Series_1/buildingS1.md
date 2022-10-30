@@ -14,6 +14,8 @@ Floor gaps are a very useful thing which allows you to have wires or cables horr
 
 All buildings that want to use electrical, or mechanical, equipment and have more than 2 floors must include a gap of atleast 2 blocks in-between all celings and floors.
 
+Not all buildings must use Floor Gaps or <a href="#conector-tubes">Conector Tubes</a> you may be aplicable for an exemption from the Buildings Regulator.
+
 As a result, your building will have a space between your floors and celings, this then allows you to run cables horrizonally to equipment e.g. LED Lights.
 
 ### Conector Tubes
