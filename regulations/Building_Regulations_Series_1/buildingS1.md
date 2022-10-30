@@ -5,6 +5,7 @@
 * <a href="#section-a">Section A</a>
   * <a href="#floor-gaps">Floor Gaps</a>
   * <a href="#conector-tubes">Conector Tubes</a>
+  * <a href="#summary">Summary</a>
 
 ## Section A
 ### Floor Gaps
@@ -24,3 +25,5 @@ Conector Tubes are a simple pillar of air which goes through cellings / floors a
 Don't add too many Conector Tubes because you will loose your floor space!
 
 Ground level Conector Tubes can be brought below ground level and connect with the grid! This can be an advantage as you do not need to provide your own utilities.
+
+### Summary
