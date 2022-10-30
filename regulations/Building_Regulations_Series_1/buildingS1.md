@@ -10,7 +10,7 @@
 ## Section A
 ### Floor Gaps
 
-Floor gaps are a very useful thing which allows you to have wires or cables horrizonally inside your buildings. For verical wiring please see <a href="#conector-tubes">Conector Tubes</a>.
+Floor gaps are a very useful thing which allows you to have wires or cables horrizonally inside your buildings. For vertical wiring please see <a href="#conector-tubes">Conector Tubes</a>.
 
 All buildings that want to use electrical, or mechanical, equipment and have more than 2 floors must include a gap of atleast 2 blocks in-between all celings and floors.
 
