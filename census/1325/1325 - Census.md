@@ -1,5 +1,5 @@
 # Samland 1325 Census
-*21/1/23 (dd/mm/yy)*
+*Created 21st January 2023*
 
 ## Villagers 
 
