@@ -4,6 +4,7 @@
 1. Villagers 
 
 - Plains Villagers
+
 | UUID                                 | Age   | Homeless | Job       |
 | ------------------------------------ | ----- | -------- | --------- |
 | 9f565dda-a665-4749-aa2d-1e77c7247653 | adult | Yes      | Fisherman |
@@ -65,6 +66,7 @@
 | eddaca50-d7ef-4ab2-b251-7d62e5c782e0 | adult | Yes      | Fisherman |
 
 - Snow Villagers
+
 | UUID                                 | Age   | Homeless | Job          |
 | ------------------------------------ | ----- | -------- | ------------ |
 | eeca3c10-6011-4ddf-a96d-68a31e76b4df | adult | No       | Armorer      |
