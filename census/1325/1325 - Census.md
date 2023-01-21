@@ -1,9 +1,9 @@
 # Samland 1325 Census
-## 21/1/23 (dd/mm/yy)
+*21/1/23 (dd/mm/yy)*
 
-# Villagers 
+## Villagers 
 
-## Plains Villagers
+### Plains Villagers
 
 | UUID                                 | Age   | Homeless | Job       |
 | ------------------------------------ | ----- | -------- | --------- |
@@ -65,7 +65,7 @@
 | 2085f6be-ada7-4cbd-aed8-6e2d46e3b53  | adult | Yes      | N/A       |
 | eddaca50-d7ef-4ab2-b251-7d62e5c782e0 | adult | Yes      | Fisherman |
 
-## Snow Villagers
+### Snow Villagers
 
 | UUID                                 | Age   | Homeless | Job          |
 | ------------------------------------ | ----- | -------- | ------------ |
