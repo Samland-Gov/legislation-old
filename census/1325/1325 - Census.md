@@ -1,7 +1,7 @@
 # Samland 1325 Census
 ## 21/1/23 (dd/mm/yy)
 
-1. Villagers 
+# Villagers 
 
 ## Plains Villagers
 
