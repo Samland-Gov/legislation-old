@@ -72,7 +72,7 @@
 | 2085f6be-ada7-4cbd-aed8-6e2d46e3b53  | adult | No       | Butcher        |
 | 532cb144-4c6d-45e2-b53e-438c24023f6d | adult | No       | Leather Worker |
 
-### SNo     w Villagers
+### Snow Villagers
 
 | UUID                                 | Age   | Homeless | Job            |
 | ------------------------------------ | ----- | -------- | -------------- |
