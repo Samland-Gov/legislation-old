@@ -77,20 +77,6 @@
 | 62df55dd-9a06-40b1-9de0-1a8a8727450c | adult | Yes | Butcher |
 | 532cb144-4c6d-45e2-b53e-438c24023f6d | adult | Yes | Leatherworker |
 
-### Taiga Villagers
-
-| UUID    | Age     | Homeless | Job       |
-| ------- | ------- | -------- | --------- |
-| 2c1297b7-fc84-5e5a-10ff-455219f4b4f | adult | No  | N/A |
-| 845e8412-97c4-375a-0421-b8474ee6c8b | adult | No  | Weaponsmith |
-| fb93e48f-8641-4f6f-b18a-cd8594bb3842 | adult | No  | Shepherd |
-| 229353a5-20b4-f409-2de5-17d4856c033 | adult | Yes | Shepherd |
-| 2ea70f64-3f23-45c6-abc2-833ee5e226bf | adult | No  | N/A |
-| afe42b2e-fbd4-4547-a27d-a5d1e0c554c | adult | No  | N/A |
-| 23715396-80a4-f4eb-b90e-be2b3929832 | adult | No  | Farmer |
-| 1e1f652a-c70b-42d7-9946-b878de461288 | adult | Yes | N/A |
-| a06245fe-6ee4-ef9a-b1bd-21d4b6af61 | adult | No  | Mason |
-
 ### Snow Villagers
 
 | UUID    | Age     | Homeless | Job       |

@@ -147,15 +147,6 @@
 				"type": "minecraft:farmer"
 			}
 		},
-		"23715396-80a4-f4eb-b90e-be2b3929832": {
-			"home": "-509,107,-677",
-			"type": "minecraft:taiga",
-			"age": "adult",
-			"job": {
-				"level": "1",
-				"type": "minecraft:farmer"
-			}
-		},
 		"13bee42c-8a3c-4592-8e5d-8f685e2a2ce5": {
 			"home": "143,85,-232",
 			"type": "minecraft:plains",
@@ -200,15 +191,6 @@
 				"type": "minecraft:mason"
 			}
 		},
-		"a06245fe-6ee4-ef9a-b1bd-21d4b6af61": {
-			"home": "-526,105,-678",
-			"type": "minecraft:taiga",
-			"age": "adult",
-			"job": {
-				"level": "1",
-				"type": "minecraft:mason"
-			}
-		},
 		"b3aa6c3a-7d8d-4bb9-902e-0eb936f3de36": {
 			"home": "-451,73,699",
 			"type": "minecraft:snow",
@@ -247,13 +229,6 @@
 				"type": "minecraft:nitwit"
 			}
 		},
-		"2ea70f64-3f23-45c6-abc2-833ee5e226bf": {
-			"home": "-528,112,-740",
-			"type": "minecraft:taiga",
-			"age": "adult",
-			"job": [
-			]
-		},
 		"25ab4b20-fa81-44d6-8ad5-981a453e4b1e": {
 			"type": "minecraft:snow",
 			"age": "adult",
@@ -277,13 +252,6 @@
 				"level": "1",
 				"type": "minecraft:leatherworker"
 			}
-		},
-		"2c1297b7-fc84-5e5a-10ff-455219f4b4f": {
-			"home": "-526,106,-715",
-			"type": "minecraft:taiga",
-			"age": "adult",
-			"job": [
-			]
 		},
 		"c01be497-2b5e-4c45-92cc-a53d30c879e3": {
 			"home": "143,82,-208",
@@ -332,12 +300,6 @@
 			"job": [
 			]
 		},
-		"1e1f652a-c70b-42d7-9946-b878de461288": {
-			"type": "minecraft:taiga",
-			"age": "adult",
-			"job": [
-			]
-		},
 		"f5b18790-1873-416a-bc19-dffc2f68a1e5": {
 			"home": "137,82,-208",
 			"type": "minecraft:plains",
@@ -346,13 +308,6 @@
 				"level": "1",
 				"type": "minecraft:farmer"
 			}
-		},
-		"afe42b2e-fbd4-4547-a27d-a5d1e0c554c": {
-			"home": "-463,107,-701",
-			"type": "minecraft:taiga",
-			"age": "adult",
-			"job": [
-			]
 		},
 		"d6f7dc3e-d9e4-e59a-686a-d7d55500170": {
 			"type": "minecraft:snow",
@@ -384,23 +339,6 @@
 			"age": "adult",
 			"job": [
 			]
-		},
-		"fb93e48f-8641-4f6f-b18a-cd8594bb3842": {
-			"home": "-430,104,-701",
-			"type": "minecraft:taiga",
-			"age": "adult",
-			"job": {
-				"level": "1",
-				"type": "minecraft:shepherd"
-			}
-		},
-		"229353a5-20b4-f409-2de5-17d4856c033": {
-			"type": "minecraft:taiga",
-			"age": "adult",
-			"job": {
-				"level": "1",
-				"type": "minecraft:shepherd"
-			}
 		},
 		"53834102-4729-4fb1-985b-4e547ea3bf62": {
 			"type": "minecraft:snow",
@@ -866,15 +804,6 @@
 		"eddaca50-d7ef-4ab2-b251-7d62e5c782e0": {
 			"home": "-317,84,82",
 			"type": "minecraft:plains",
-			"age": "adult",
-			"job": {
-				"level": "1",
-				"type": "minecraft:weaponsmith"
-			}
-		},
-		"845e8412-97c4-375a-0421-b8474ee6c8b": {
-			"home": "-496,109,-673",
-			"type": "minecraft:taiga",
 			"age": "adult",
 			"job": {
 				"level": "1",
