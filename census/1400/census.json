@@ -1,0 +1,963 @@
+{
+	"day": "1400",
+	"data": {
+		"e8a41a56-9cea-4c6d-9540-cea7e686a7a5": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"fd63d911-5bba-4fea-8242-261654553658": {
+			"home": "-307,84,82",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"e8b793a9-ed9f-4d3f-be49-bedbd0548d11": {
+			"home": "3,64,317",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"765b2b8e-9c09-4711-b10c-54db20905c79": {
+			"home": "-456,71,669",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"c419fdf0-b9f5-475c-82ba-2ef65a805eb6": {
+			"home": "177,82,-228",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fisherman"
+			}
+		},
+		"fec5dd0e-ec33-49f6-982e-766fd32784b0": {
+			"home": "168,82,-238",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"44992b57-63a7-412e-9c97-0528a2fac43c": {
+			"home": "-317,84,81",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fisherman"
+			}
+		},
+		"f0edbcdb-5c39-4037-b36c-c6591961adef": {
+			"home": "-451,73,698",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:shepherd"
+			}
+		},
+		"865a6c43-1741-446d-afb0-053eb148993b": {
+			"home": "172,82,-229",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:librarian"
+			}
+		},
+		"792eb94e-8740-4246-a886-14428555c775": {
+			"home": "-466,72,716",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fisherman"
+			}
+		},
+		"208f87ec-7128-4c5a-861a-4aed540d4c38": {
+			"home": "176,81,-215",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fletcher"
+			}
+		},
+		"ef96d9ab-8781-4762-9522-4d0f8cc3b759": {
+			"home": "176,82,-231",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:toolsmith"
+			}
+		},
+		"cfab4da5-7bdd-4e44-acc6-590043990ec0": {
+			"home": "143,82,-204",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"3856a1bf-4315-424c-844e-ca1f7952ec1f": {
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"8f590f75-4d74-4b48-a76a-aba17adce899": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"13bee42c-8a3c-4592-8e5d-8f685e2a2ce5": {
+			"home": "143,85,-232",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"260203ac-9c24-5d48-4e19-06faf91a64a": {
+			"home": "-317,84,74",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"b7523b84-22d6-4450-a7db-6766540dd258": {
+			"home": "131,82,-206",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"b3aa6c3a-7d8d-4bb9-902e-0eb936f3de36": {
+			"home": "-466,72,720",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:cartographer"
+			}
+		},
+		"2913114a-3094-e4c8-7f95-ab319829e17": {
+			"home": "-12,67,371",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"187387e7-8af4-d079-8c86-5e2511c2f61": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fletcher"
+			}
+		},
+		"64a96073-8a04-7dba-cc23-b596a6d61e2": {
+			"home": "-415,72,679",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:cleric"
+			}
+		},
+		"d34b0566-16ed-4d81-a32b-575a417d73dd": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:nitwit"
+			}
+		},
+		"7bf9fdd2-6c4e-6798-7b35-5841a5af88": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:nitwit"
+			}
+		},
+		"25ab4b20-fa81-44d6-8ad5-981a453e4b1e": {
+			"home": "-451,68,701",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"7e7bd864-6192-4362-a66f-2210a88abab1": {
+			"home": "-307,84,81",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"dcc37e1c-c951-437b-8737-68b540920013": {
+			"home": "127,82,-208",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"f67f7089-680d-44b6-b9d2-6217ab2730a5": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"c01be497-2b5e-4c45-92cc-a53d30c879e3": {
+			"home": "143,82,-208",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"2afa1984-c644-4a4b-c126-95d9f9f497c": {
+			"home": "175,82,-234",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fisherman"
+			}
+		},
+		"ceb46e18-9d80-4ef3-ad08-3352ab40b063": {
+			"home": "143,82,-202",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"2af31c79-daf8-45d6-a8c6-157c5f1c2369": {
+			"home": "-451,73,702",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:armorer"
+			}
+		},
+		"ed217b65-543a-4f13-a454-050c5b037e53": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"85a0136e-3c27-43c0-860d-0e46817f124b": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:nitwit"
+			}
+		},
+		"9480e98c-cb24-e48a-a69c-3f071faf265": {
+			"home": "142,85,-232",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"f5b18790-1873-416a-bc19-dffc2f68a1e5": {
+			"home": "137,82,-208",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"950b9e64-3fd2-45f4-8ec4-1599e071a260": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"d6f7dc3e-d9e4-e59a-686a-d7d55500170": {
+			"home": "-451,68,696",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:cleric"
+			}
+		},
+		"ee23b608-19db-4d85-875c-8981b25a6e56": {
+			"home": "-451,73,701",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"3b62b5e3-6cec-47e5-a970-54ec882934e9": {
+			"home": "12,67,359",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:mason"
+			}
+		},
+		"3164447f-f475-49eb-8852-bfe7aac977e0": {
+			"home": "-451,68,695",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:armorer"
+			}
+		},
+		"a4885206-b6c4-9da8-cccd-313d8e4dc76": {
+			"home": "150,81,-232",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"d9e540ff-29ac-493c-9ee6-f9afe39161d2": {
+			"home": "-451,73,697",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:cartographer"
+			}
+		},
+		"53834102-4729-4fb1-985b-4e547ea3bf62": {
+			"home": "-451,73,700",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"7b17693c-c207-44c6-8c02-f9007a14fa48": {
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"b8518184-6b6b-44db-85a4-3368ec87de4c": {
+			"home": "149,82,-208",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"698d728c-2249-26bf-4a63-a485ff2293": {
+			"home": "176,78,-239",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:cartographer"
+			}
+		},
+		"9a13d346-4084-b9f8-3cb7-19f1e49ca48": {
+			"home": "-466,78,742",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:nitwit"
+			}
+		},
+		"f9f94b53-bd0e-4d0b-be69-a605e0948330": {
+			"home": "127,82,-206",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"95b444f3-379f-4837-a5ae-c9054720f7e3": {
+			"home": "-307,84,74",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:cleric"
+			}
+		},
+		"3b24b3c1-7525-43ad-8000-f648dda739f": {
+			"home": "172,82,-228",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"9f565dda-a665-4749-aa2d-1e77c7247653": {
+			"home": "-317,84,75",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fisherman"
+			}
+		},
+		"eeca3c10-6011-4ddf-a96d-68a31e76b4df": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:toolsmith"
+			}
+		},
+		"fbd3e39f-8dfa-4366-b551-ee8d4837187b": {
+			"home": "-451,68,699",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:toolsmith"
+			}
+		},
+		"2d52e7b8-7647-477e-856a-1b4f3fb17a0e": {
+			"home": "-454,71,720",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fisherman"
+			}
+		},
+		"23a4944f-f096-4efa-860a-c273dbf26f1d": {
+			"home": "-451,68,698",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"fbc65e96-7808-4c7d-a022-e7291c8eb485": {
+			"home": "149,82,-204",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:mason"
+			}
+		},
+		"2de01bec-1b2c-4c90-be71-59b6a535e8c6": {
+			"home": "149,82,-206",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:armorer"
+			}
+		},
+		"b345eef5-2aa8-4ae5-b535-e163e4aaf4ed": {
+			"home": "176,82,-237",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:librarian"
+			}
+		},
+		"e9c727b5-7679-4923-8a41-1cffcb4489fe": {
+			"home": "176,82,-228",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"133f9dc8-7dcf-4e67-b0dd-476c67f2fcea": {
+			"home": "171,81,-208",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"95da771e-436a-409e-b825-f79c56c6ceec": {
+			"home": "143,82,-202",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"9157f81b-a383-4820-9594-aa3e99715f3c": {
+			"home": "-307,84,75",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:cleric"
+			}
+		},
+		"f9deded9-395c-4568-b257-3a77d1537f9f": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"71269f39-6d94-039b-ab15-b7e5d55bd07": {
+			"home": "175,82,-235",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"eddaca50-d7ef-4ab2-b251-7d62e5c782e0": {
+			"home": "-317,84,82",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"3113be55-ee24-c248-0405-f9380c6be41": {
+			"home": "176,78,-229",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"c706f8e1-4bf4-4795-8948-a55d641e6c3c": {
+			"home": "172,78,-233",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fletcher"
+			}
+		},
+		"aa9fbfbe-ee41-48c9-8b17-02794047e394": {
+			"home": "-427,69,661",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"2085f6be-ada7-4cbd-aed8-6e2d46e3b53": {
+			"home": "168,82,-239",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"b851dc7e-81f0-4750-82f4-8fe83f316e9c": {
+			"home": "137,82,-202",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:mason"
+			}
+		},
+		"49df8595-708e-465d-b78a-8e8b474d9b0c": {
+			"home": "149,82,-202",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"5dd841ed-a95c-4dc9-992c-db3884161aa5": {
+			"home": "121,82,-208",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"82a95490-ca70-4cfa-9441-5e44cbb781a1": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"67ce208c-8cbb-476d-a24f-cc2896c52277": {
+			"home": "-451,73,695",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"4656a4f7-845b-4d31-ab4b-b93334edf9d3": {
+			"home": "176,82,-232",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:cartographer"
+			}
+		},
+		"a135d90c-fbe0-412c-a6ff-6a9e376eb62f": {
+			"home": "-451,73,696",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"6568d7b1-e6ff-4b36-b472-b5c2b5a10e45": {
+			"home": "-465,69,686",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"6debc9ac-d5f4-db48-cb04-651a8d62913": {
+			"home": "121,82,-202",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"d9515543-8934-911b-8db1-68ad933f926": {
+			"home": "137,82,-206",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"bfb17dca-7e64-c2cb-e3ef-9e25fa1afcb": {
+			"home": "131,82,-204",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"4d07eb41-e964-3a48-2ba8-57c2f7c1bf8": {
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"f2e5f209-8ab9-4c5b-a33b-1eef5afa6a9c": {
+			"home": "176,81,-211",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"cca1dfbb-26fd-47d7-bcc4-9046afe03fb4": {
+			"home": "121,82,-204",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"f4d4d4e4-a26d-465b-aeb2-d4ba6d192e5d": {
+			"home": "-451,68,697",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fisherman"
+			}
+		},
+		"6115a773-fa1b-4d1d-8d5a-46bd30bd2335": {
+			"home": "130,81,-234",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"ad6d278f-9d3e-4e65-87aa-c23ca7e18cb6": {
+			"home": "137,82,-204",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"62df55dd-9a06-40b1-9de0-1a8a8727450c": {
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"259d182b-40b4-0948-0a47-1a4dcea1e05": {
+			"home": "171,78,-233",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:toolsmith"
+			}
+		},
+		"670447ed-2528-4805-bf8c-0dbbaadc712a": {
+			"home": "127,82,-202",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"14013df0-9ff4-4ea0-a29c-c21ee0f4d8": {
+			"home": "131,82,-202",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"68e06e66-81c3-4776-8905-a1f43bc526f5": {
+			"home": "140,81,-232",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:librarian"
+			}
+		},
+		"f4d1eb55-ba77-4fa6-98c6-ed2f1ec917c9": {
+			"home": "176,82,-238",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"51972ef2-6194-0078-79ef-dffc130c2d1": {
+			"home": "143,82,-206",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"9c5bc5bc-8132-4d1a-b220-2afbacdb74a8": {
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"dd5fe86b-d6bb-4981-af13-b21fcd7f9e4b": {
+			"home": "-4,63,329",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:nitwit"
+			}
+		},
+		"1eae67d7-7b39-4ffa-9110-e7352aa2a9d": {
+			"home": "-456,68,701",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:mason"
+			}
+		},
+		"ef6015ed-f6c4-66fa-262d-456e24b9903": {
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"5cb3850d-1291-47b7-bb4a-65b0c87cab5f": {
+			"home": "120,81,-234",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"ae55bd46-d8c9-49e4-b256-3500b89ea046": {
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"ca0102df-ef93-44fb-a68f-4194fb34c482": {
+			"home": "127,82,-204",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:mason"
+			}
+		},
+		"d6ff12d7-d769-452f-8646-e3a8a65a47c1": {
+			"home": "121,82,-206",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"b37b00b6-870c-4769-b7c8-c8b72d6f9324": {
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fisherman"
+			}
+		},
+		"7c030efe-f153-4999-9b37-6be7a2a916df": {
+			"home": "-439,71,658",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"266589b9-9952-4c72-bedd-a15c97d2f565": {
+			"home": "-466,78,738",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:fisherman"
+			}
+		},
+		"499d645b-b522-4cb2-8b4d-c42ad6d21402": {
+			"home": "131,82,-208",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"7a06f47c-9214-47aa-6884-63115961601": {
+			"home": "176,77,-209",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:farmer"
+			}
+		},
+		"37f4ad28-6c99-4526-b387-fec3436087f5": {
+			"home": "176,81,-212",
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:weaponsmith"
+			}
+		},
+		"1dcaae93-a18a-488d-a853-0628df60e64": {
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"dd04eafb-6a41-4044-8487-e4c9a879c9b1": {
+			"home": "-451,68,702",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:butcher"
+			}
+		},
+		"f94f51a0-10d4-8f7b-30bc-bf22f954e76": {
+			"home": "-451,68,700",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		},
+		"77b0d536-2374-f2da-11f2-d473f2a6233": {
+			"home": "-3,64,317",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"ed8942c8-ffa7-4138-882a-da2b589069b9": {
+			"home": "-451,73,699",
+			"type": "minecraft:snow",
+			"age": "adult",
+			"job": [
+			]
+		},
+		"532cb144-4c6d-45e2-b53e-438c24023f6d": {
+			"type": "minecraft:plains",
+			"age": "adult",
+			"job": {
+				"level": "1",
+				"type": "minecraft:leatherworker"
+			}
+		}
+	}
+}
