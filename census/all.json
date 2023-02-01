@@ -13,5 +13,8 @@
     },
     "1400": {
         "url": "https://samland.minersonline.tk/docs/census/1400/census.json"
+    },
+    "1430": {
+        "url": "https://samland.minersonline.tk/docs/census/1430/census.json"
     }
 }
