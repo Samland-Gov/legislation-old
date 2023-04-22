@@ -52,3 +52,11 @@ The Parliament Act aims to simplify the understanding of how the Parliament is u
 6. If the President of Samland approves the law, it shall become law.
 7. If the President of Samland vetoes the law, it shall be sent back to Parliament for reconsideration.
 8. If Parliament passes the law again with a two-thirds majority, it shall become law without the President's approval.
+
+## Article 9: Rules of Debate and Voting in Parliament
+1. Members of Parliament shall have the right to speak and express their opinions on proposed laws during debates.
+2. The Speaker of the Parliament shall preside over the debates and maintain order and decorum.
+3. Each member of Parliament shall have one vote on each proposed law.
+3. Voting on proposed laws shall be conducted by a show of hands, except where a secret ballot is requested by at least one-third of the members present.
+4. A simple majority of the members present shall be required for a proposed law to be passed to the President.
+5. Members of Parliament shall be allowed to propose amendments to proposed laws, which shall be debated and voted on separately before the final vote on the proposed law.
