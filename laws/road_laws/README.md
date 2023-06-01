@@ -18,4 +18,8 @@ This folder contains the key road laws of Samland, encompassing regulations and 
    - File: [samland_road_usage_act.md](./samland_road_usage_act.md)
    - Description: The Road Usage Act provides guidelines and regulations for the proper use of roads in Samland. It covers aspects such as traffic rules, right-of-way, speed limits, lane discipline, pedestrian safety, driver licensing, and education, aiming to ensure safe and efficient road usage.
 
+4. Samland Road Markings, Signs, and Traffic Signals Code:
+   - File: [samland_road_markings_signs_and_traffic_signals_code.md](./samland_road_markings_signs_and_traffic_signals_code.md)
+   - Description: The Samland Road Markings, Signs, and Traffic Signals Code is a legally binding document that establishes the standards and regulations governing road markings, signs, and traffic signals in Samland. It provides detailed descriptions and specifications for each element, ensuring consistent and safe practices for road users. Compliance with the code is mandatory to promote orderly and efficient traffic flow within the country.
+
 Please note that these documents represent the current versions of the acts. Amendments and revisions may occur over time to accommodate changing traffic patterns, advancements in road technology, and evolving safety requirements. For historical versions or any inquiries related to these acts, please refer to the respective documents or contact the Samland Department of Transportation.
