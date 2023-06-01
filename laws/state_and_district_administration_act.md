@@ -18,7 +18,9 @@
 1. The Legislative Branch shall consist of the State Legislature, which shall be responsible for enacting laws and regulations specific to the state.
 2. The State Legislature shall be composed of elected representatives from the districts within the state.
 3. The number of representatives from each district shall be determined based on population, ensuring fair representation.
-4. The State Legislature shall have the authority to pass laws, approve the state budget, and oversee the administration of the state.
+4. State elections shall be held at regular intervals, as determined by the State Legislature, and conducted in accordance with the Samland Electoral Law.
+5. State laws shall be passed through a legislative process similar to the Samland Parliament, where proposed laws are debated and voted upon by the State Legislature. A majority vote shall be required for the passage of a state law.
+6. The State Legislature shall have the authority to pass laws, approve the state budget, and oversee the administration of the state.
 
 ## Article 5: Judicial Branch of the State Government
 1. The Judicial Branch shall be responsible for interpreting and applying the laws within the state.
@@ -30,3 +32,6 @@
 2. The division of each state into districts shall be determined by the State Legislature, considering factors such as geographical size, population density, and local needs.
 3. Each district shall have its own local council or government, responsible for local governance, public services, and development projects.
 4. The local council or government within each district shall be elected by the residents of the district, ensuring local representation.
+5. District elections shall be held at regular intervals, as determined by the State Legislature, and conducted in accordance with the Samland Electoral Law.
+6. The district government shall have the authority to make decisions on local matters, implement state policies at the district level, and manage local resources and infrastructure.
+7. The district government shall work in coordination with the State Government to ensure effective governance and the welfare of the residents within the district.
