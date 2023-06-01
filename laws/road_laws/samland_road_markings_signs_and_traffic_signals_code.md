@@ -61,7 +61,7 @@ Image: [Insert image location]
 
 #### 2.2.2. Solid White Line
 
-Description: A solid white line indicates the edge of the road or the boundary of a specific lane. Do not cross this line, except in emergencies or when directed by a traffic authority.
+Description: A solid white line indicates the edge of the road or the boundary of a specific lane. Do not cross this line, except in emergencies or when directed by a traffic authority. Roads which already have a clear visual or physical boundary do not require the edge line but they can have one. 
 Image: [Insert image location]
 
 #### 2.2.3. Lane Arrow
