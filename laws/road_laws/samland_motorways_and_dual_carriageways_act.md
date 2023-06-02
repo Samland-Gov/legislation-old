@@ -2,9 +2,9 @@
 
 ## Article 1: Definitions
 1. For the purposes of this Act, the following definitions apply:
-   a) "Motorway" refers to a controlled-access highway designed for high-speed traffic, typically with multiple lanes, limited access points, and grade-separated interchanges.
-   b) "Dual carriageway" refers to a divided highway with two or more lanes in each direction, physically separated by a median or barrier.
-   c) "Zebra crossing" refers to a marked pedestrian crossing where motorists are required to yield to pedestrians.
+   - a) "Motorway" refers to a controlled-access highway designed for high-speed traffic, typically with multiple lanes, limited access points, and grade-separated interchanges.
+   - b) "Dual carriageway" refers to a divided highway with two or more lanes in each direction, physically separated by a median or barrier.
+   - c) "Zebra crossing" refers to a marked pedestrian crossing where motorists are required to yield to pedestrians.
 
 ## Article 2: Designation and Regulation
 1. Motorways and dual carriageways shall be designated by appropriate road signs and markings, distinguishing them from regular roads.
