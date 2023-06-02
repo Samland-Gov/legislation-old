@@ -13,6 +13,9 @@
 2. Road users shall comply with all applicable traffic laws, regulations, and road signs.
 3. Road users shall maintain proper control of their vehicles, avoiding distractions and impairment that may jeopardize safety.
 4. Road users shall yield to pedestrians and other vulnerable road users, exercising caution and providing adequate space.
+1. All road users in Samland shall drive on the left-hand side of the road.
+2. The policy of driving on the left is established to ensure consistency, safety, and efficient traffic flow.
+2. Motor vehicles, bicycles, and pedestrians shall adhere to this principle of driving on the left at all times, except where explicitly authorised by traffic signs or road markings.
 
 ## Article 4: Speed Limits
 1. Speed limits shall be established and indicated through appropriate road signs.
@@ -30,9 +33,12 @@
 1. Road users shall obey traffic signals, signs, and road markings as indicated by the Samland Road Markings and Signs Act.
 2. Traffic signals, signs, and road markings shall be followed, providing instructions, warnings, and guidance to road users.
 
-## Article 8: Pedestrian Safety
-1. Road users shall exercise caution and yield to pedestrians at crosswalks, pedestrian crossings, and other designated areas.
-2. Road users shall not obstruct or endanger pedestrians and shall grant them the right of way when necessary.
+## Article 8: Pedestrians and Cyclists
+1. Pedestrians shall use designated sidewalks, footpaths, and pedestrian crossings, following traffic signals and yielding to vehicles when crossing the road.
+2. Cyclists shall use designated bike lanes or the leftmost part of the road, adhering to traffic rules and signals applicable to motor vehicles.
+3. Motor vehicle drivers shall exercise caution and give priority to pedestrians and cyclists, ensuring their safety and well-being on the roads.
+4. Road users shall exercise caution and yield to pedestrians at pedestrian crossings, and other designated areas.
+5. Road users shall not obstruct or endanger pedestrians and shall grant them the right of way when necessary.
 
 ## Article 9: School Zones and Residential Areas
 1. Road users shall exercise heightened caution and reduce speed in school zones and residential areas.
