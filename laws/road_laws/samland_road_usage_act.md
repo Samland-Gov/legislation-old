@@ -24,33 +24,41 @@
 ## Article 5: Overtaking and Lane Discipline
 1. Overtaking shall be done with caution and only when it can be completed safely.
 2. Road users shall adhere to designated lanes and markings, maintaining proper lane discipline and avoiding unnecessary lane changes.
+3. Overtaking shall be conducted on the right-hand side of the road, ensuring a safe distance from the vehicle being overtaken.
+4. Lane discipline shall be observed, with slower-moving vehicles keeping to the leftmost lane, and faster-moving vehicles using the right lanes for overtaking purposes.
+5. Vehicles shall not overtake on the left unless specifically permitted in certain circumstances, such as when the vehicle being overtaken is making a right turn or is stationary in traffic.
 
 ## Article 6: Right of Way
 1. Road users shall yield the right of way to vehicles and pedestrians as prescribed by traffic laws, road signs, and signals.
 2. At intersections and junctions, road users shall yield to vehicles approaching from the right unless otherwise directed by traffic signs or signals.
 
-## Article 7: Traffic Signals, Signs, and Road Markings
+## Article 7: Roundabouts
+1. When approaching a roundabout, vehicles shall give priority to the traffic already on the roundabout, entering only when it is safe to do so.
+2. Vehicles shall circulate around the roundabout in a clockwise direction, keeping to the left and yielding to vehicles already on the roundabout.
+3. When exiting the roundabout, vehicles shall signal their intention to leave and give way to pedestrians and cyclists in designated crossings.
+
+## Article 8: Traffic Signals, Signs, and Road Markings
 1. Road users shall obey traffic signals, signs, and road markings as indicated by the Samland Road Markings and Signs Act.
 2. Traffic signals, signs, and road markings shall be followed, providing instructions, warnings, and guidance to road users.
 
-## Article 8: Pedestrians and Cyclists
+## Article 9: Pedestrians and Cyclists
 1. Pedestrians shall use designated sidewalks, footpaths, and pedestrian crossings, following traffic signals and yielding to vehicles when crossing the road.
 2. Cyclists shall use designated bike lanes or the leftmost part of the road, adhering to traffic rules and signals applicable to motor vehicles.
 3. Motor vehicle drivers shall exercise caution and give priority to pedestrians and cyclists, ensuring their safety and well-being on the roads.
 4. Road users shall exercise caution and yield to pedestrians at pedestrian crossings, and other designated areas.
 5. Road users shall not obstruct or endanger pedestrians and shall grant them the right of way when necessary.
 
-## Article 9: School Zones and Residential Areas
+## Article 10: School Zones and Residential Areas
 1. Road users shall exercise heightened caution and reduce speed in school zones and residential areas.
 2. Additional signage and road markings may be present in these areas to ensure the safety of children and residents.
 
-## Article 10: Awareness and Education
+## Article 11: Awareness and Education
 1. The Samland Department of Transportation shall promote road safety awareness and education programs to enhance the knowledge and skills of road users.
 2. Awareness campaigns, driver education courses, and other initiatives shall be conducted to foster safe and responsible road usage practices.
 
-## Article 11: Prohibited Activities
+## Article 12: Prohibited Activities
 1. Road users shall refrain from engaging in activities that may compromise their ability to drive safely, including but not limited to driving under the influence of alcohol or drugs, texting while driving, and other forms of distracted driving.
 2. Road users shall not participate in illegal street racing or engage in any activities that may endanger themselves or others.
 
-## Article 12: Penalties
+## Article 13: Penalties
 1. Violations of this Act may result in penalties, fines, license suspension, or other consequences as determined by applicable laws and regulations.
