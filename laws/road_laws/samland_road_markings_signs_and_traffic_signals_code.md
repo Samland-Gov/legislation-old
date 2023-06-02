@@ -155,4 +155,4 @@ Image: [Insert image location]
 
 This document serves as a comprehensive reference guide for road users in Samland. Please refer to it whenever clarification is needed regarding road markings, signs, and traffic signals. Safe and responsible driving is essential to maintaining order and ensuring the well-being of all road users.
 
-For any inquiries or updates to this guide, please contact the Samland Department of Transport.
+For any inquiries or updates to this guide, please contact the Samland Department of Transportation.

@@ -5,7 +5,7 @@
 2. The purpose of this Act is to ensure safe, orderly, and efficient road usage, promoting the well-being of all road users.
 
 ## Article 2: Driver Licensing
-1. Road users shall possess a valid driver license issued by the Samland Department of Transport or a recognized licensing authority.
+1. Road users shall possess a valid driver license issued by the Samland Department of Transportation or a recognised licensing authority.
 2. The licensing authority shall establish criteria and requirements for obtaining and renewing driver licenses, including age restrictions, knowledge and skill tests, and medical fitness assessments.
 
 ## Article 3: Road User Responsibilities
