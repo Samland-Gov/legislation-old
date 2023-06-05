@@ -2,23 +2,19 @@
 
 This folder contains the key road laws of Samland, encompassing regulations and guidelines pertaining to motorways, dual carriageways, road construction, road markings, signs, and road usage. Below is a brief description of each act contained within this folder:
 
-1. Samland Motorways and Dual Carriageways Act:
-   - File: [samland_motorways_and_dual_carriageways_act.md](./samland_motorways_and_dual_carriageways_act.md)
-   - Description: This act provides the legal framework for the establishment, regulation, and use of motorways and dual carriageways in Samland. It covers aspects such as design, access, lane usage, speed limits, emergency services, and enforcement on these types of roads.
-
-2. Samland Road Construction Act:
-   - File: [samland_road_construction_act.md](./samland_road_construction_act.md)
-   - Description: The Road Construction Act outlines the standards, procedures, and regulations for road construction and maintenance in Samland. It covers aspects such as road design, materials, safety considerations, environmental impacts, and construction quality assurance.
-
-3. Samland Road Markings and Signs Act:
-   - File: [samland_road_markings_and_signs_act.md](./samland_road_markings_and_signs_act.md)
-   - Description: This act governs the road markings, signs, and signals used on Samland's road network. It establishes standardization for the placement, design, and meaning of road markings and signs, ensuring consistent communication and safety for road users.
-
-4. Samland Road Usage Act:
+1. Samland Road Usage Act:
    - File: [samland_road_usage_act.md](./samland_road_usage_act.md)
    - Description: The Road Usage Act provides guidelines and regulations for the proper use of roads in Samland. It covers aspects such as traffic rules, right-of-way, speed limits, lane discipline, pedestrian safety, driver licensing, and education, aiming to ensure safe and efficient road usage.
 
-4. Samland Road Markings, Signs, and Traffic Signals Code:
+2. Samland Road Safety Act:
+   - File: [samland_road_safety_act.md](./samland_road_safety_act.md)
+   - Description: The Samland Road Safety Act consolidates the responsibilities of the Samland Department of Transportation to ensure road safety. It encompasses maintenance and construction of roads, while emphasizing the importance of awareness and education, penalties for violations, and a robust driver licensing system. This act aims to create a safer road environment for all road users and promote responsible driving practices.
+
+3. Samland Road Classification and Speed Limits Code:
+   - File: [samland_road_classification_and_speed_limits_code.md](./samland_road_classification_and_speed_limits_code.md)
+   - Description: The Samland Road Classification and Speed Limits Code establishes the classification of roads and their corresponding speed limits within Samland. This code serves as a comprehensive reference for road users, ensuring uniformity and safety across various road types.
+
+3. Samland Road Markings, Signs, and Traffic Signals Code:
    - File: [samland_road_markings_signs_and_traffic_signals_code.md](./samland_road_markings_signs_and_traffic_signals_code.md)
    - Description: The Samland Road Markings, Signs, and Traffic Signals Code is a legally binding document that establishes the standards and regulations governing road markings, signs, and traffic signals in Samland. It provides detailed descriptions and specifications for each element, ensuring consistent and safe practices for road users. Compliance with the code is mandatory to promote orderly and efficient traffic flow within the country.
 
