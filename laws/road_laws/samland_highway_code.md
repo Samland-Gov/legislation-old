@@ -45,8 +45,6 @@
 
 ## 1. Introduction
 
-Introduction to the Samland Highway Code
-
 Welcome to the Samland Highway Code, a comprehensive guide that outlines the rules and regulations governing road use in the country of Samland. This code serves as a valuable resource for all road users, providing essential information on speed limits, road markings, signs, traffic signals, and driver responsibilities.
 
 The Samland Highway Code has been developed to ensure the safety and efficiency of our road networks. It is designed to promote responsible and courteous behaviors among drivers, cyclists, pedestrians, and other road users, with the ultimate goal of reducing accidents and creating a harmonious road environment.
@@ -132,7 +130,7 @@ Image: [Insert image location]
 
 #### 5.2.1. Broken White Line
 
-Description: A broken white line separates lanes of traffic. You may change lanes when it is safe to do so.
+Description: A broken white line separates lanes of traffic. You may change lanes when it is safe to do so. These will be seen on multi lane roads.
 Image: [Insert image location]
 
 #### 5.2.2. Solid White Line
@@ -142,7 +140,7 @@ Image: [Insert image location]
 
 #### 5.2.3. Lane Arrow
 
-Description: A bike lane arrow is used to guide cyclists and indicate the direction of travel in a bike lane.
+Description: A lane arrow is used to guide cyclists or motor vehicles and indicate the direction of travel in of a road or bike lane.
 Image: [Insert image location]
 
 ## 6. Road Signs
