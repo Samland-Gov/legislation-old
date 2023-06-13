@@ -7,8 +7,8 @@ This folder contains the building regulations and codes applicable to constructi
    - Folder: [construction_standards/README.md](./construction_standards/README.md)
    - Description: These documents outlines the minimum construction standards that must be adhered to when erecting buildings or structures. It covers aspects such as foundation design, structural integrity, fire safety, electrical installations, plumbing, and accessibility.
 
-2. [Zoning and Land Use Regulations](./zoning_and_land_yse_regulations/README.md):
-   - Folder: [zoning_and_land_yse_regulations/README.md](./zoning_and_land_yse_regulations/README.md)
+2. Zoning and Land Use Regulations:
+   - Folder: [zoning_and_land_use_regulations/README.md](./zoning_and_land_use_regulations/README.md)
    - Description: These documents provides information on zoning laws and land use regulations in Samland. It details the permissible uses of land in different zones, setback requirements, building height restrictions, and other guidelines related to land development.
 
 3. Environmental Regulations:
