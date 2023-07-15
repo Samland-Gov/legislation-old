@@ -3,7 +3,7 @@
 ## Article 1: Voter Eligibility
 
 1. A person is eligible to vote in an election in Samland if they are a citizen of Samland and are at least 18 years old.
-2. A person may not vote in an election if they have been convicted of a criminal offense that carries a penalty of imprisonment of five years or more, and have not been pardoned or had their rights restored.
+2. A person may not vote in an election if they have been convicted of a criminal offence that carries a penalty of imprisonment of five years or more, and have not been pardoned or had their rights restored.
 
 ## Article 2: Nomination of Candidates
 
