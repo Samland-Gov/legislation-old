@@ -1,47 +1,47 @@
 
-# Samland Highway Code
+# Samland Highway Code <!-- omit in toc -->
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 
-1. [Introduction](#1-introduction)
-2. [General Road User Responsibilities](#2-general-road-user-responsibilities)
-3. [Road Classification and Speed Limits](#3-road-classification-and-speed-limits)
-   - 3.1. [Local roads](#31-local-roads)
-   - 3.2. [Main Local roads](#32-main-local-roads)
-   - 3.3. [Collectors](#33-collectors)
-   - 3.4. [Arterials](#34-arterials)
-   - 3.5. [Motorways](#35-motorways)
-4. [Overtaking and Lane Discipline](#4-overtaking-and-lane-discipline)
-5. [Road Markings](#5-road-markings)
-   - 5.1. [Center Line Markings](#51-center-line-markings)
-      - 5.1.1. [Solid White Line](#511-solid-white-line)
-      - 5.1.2. [Dashed White Line](#512-dashed-white-line)
-   - 5.2. [Lane Markings](#52-lane-markings)
-      - 5.2.1. [Broken White Line](#521-broken-white-line)
-      - 5.2.2. [Solid White Line](#522-solid-white-line)
-      - 5.2.3. [Lane Arrow](#523-lane-arrow)
-6. [Road Signs](#6-road-signs)
-   - 6.1. [Regulatory Signs](#61-regulatory-signs)
-      - 6.1.1. [Speed Limit Signs](#611-speed-limit-signs)
-      - 6.1.2. [Stop Sign](#612-stop-sign)
-      - 6.1.3. [Give Way Sign](#613-give-way-sign)
-   - 6.2. [Warning Signs](#62-warning-signs)
-      - 6.2.1. [Curve Ahead Sign](#621-curve-ahead-sign)
-      - 6.2.2. [School Zone Ahead Sign](#622-school-zone-ahead-sign)
-      - 6.2.3. [Pedestrian Crossing Ahead Sign](#623-pedestrian-crossing-ahead-sign)
-   - 6.3. [Information Signs](#63-information-signs)
-      - 6.3.1. [Destination Signs](#631-destination-signs)
-      - 6.3.2. [Service Signs](#632-service-signs)
-7. [Traffic Signals](#7-traffic-signals)
-   - 7.1. [Traffic Signal Overview](#41-traffic-signal-overview)
-   - 7.2. [Red Signal](#42-red-signal)
-   - 7.3. [Green Signal](#43-green-signal)
-8. [Driving on the Left](#8-driving-on-the-left)
-9. [Right Of Way](#9-right-of-way)
-10. [Roundabouts](#10-roundabouts)
-12. [Pedestrians and Cyclists](#11-pedestrians-and-cyclists)
-13. [School Zones and Residential Areas](#12-school-zones-and-residential-areas)
-13. [Prohibited Activities](#13-prohibited-activities)
+- [1. Introduction](#1-introduction)
+- [2. General Road User Responsibilities](#2-general-road-user-responsibilities)
+- [3. Road Classification and Speed Limits](#3-road-classification-and-speed-limits)
+  - [3.1. Local roads](#31-local-roads)
+  - [3.2. Main Local roads](#32-main-local-roads)
+  - [3.3. Collectors](#33-collectors)
+  - [3.4. Arterials](#34-arterials)
+  - [3.5. Motorways](#35-motorways)
+- [4. Overtaking and Lane Discipline](#4-overtaking-and-lane-discipline)
+- [5. Road Markings](#5-road-markings)
+  - [5.1. Center Line Markings](#51-center-line-markings)
+    - [5.1.1. Solid White Line](#511-solid-white-line)
+    - [5.1.2. Dashed White Line](#512-dashed-white-line)
+  - [5.2. Lane Markings](#52-lane-markings)
+    - [5.2.1. Broken White Line](#521-broken-white-line)
+    - [5.2.2. Solid White Line](#522-solid-white-line)
+    - [5.2.3. Lane Arrow](#523-lane-arrow)
+- [6. Road Signs](#6-road-signs)
+  - [6.1. Regulatory Signs](#61-regulatory-signs)
+    - [6.1.1. Speed Limit Signs](#611-speed-limit-signs)
+    - [6.1.2. Stop Sign](#612-stop-sign)
+    - [6.1.3. Give Way Sign](#613-give-way-sign)
+  - [6.2. Warning Signs](#62-warning-signs)
+    - [6.2.1. Curve Ahead Sign](#621-curve-ahead-sign)
+    - [6.2.2. School Zone Ahead Sign](#622-school-zone-ahead-sign)
+    - [6.2.3. Pedestrian Crossing Ahead Sign](#623-pedestrian-crossing-ahead-sign)
+  - [6.3. Information Signs](#63-information-signs)
+    - [6.3.1. Destination Signs](#631-destination-signs)
+    - [6.3.2. Service Signs](#632-service-signs)
+- [7. Traffic Signals](#7-traffic-signals)
+  - [7.1. Red Light Phase](#71-red-light-phase)
+  - [7.2. Yellow (Amber) Light Phase](#72-yellow-amber-light-phase)
+  - [7.3 Green Light Phase](#73-green-light-phase)
+- [8. Driving on the Left](#8-driving-on-the-left)
+- [9: Right of Way](#9-right-of-way)
+- [10. Roundabouts](#10-roundabouts)
+- [11. Pedestrians and Cyclists](#11-pedestrians-and-cyclists)
+- [12. School Zones and Residential Areas](#12-school-zones-and-residential-areas)
+- [13. Prohibited Activities](#13-prohibited-activities)
 
 ## 1. Introduction
 
@@ -58,6 +58,7 @@ By familiarizing yourself with the regulations outlined in the Samland Highway C
 Remember, the Samland Highway Code is a living document that is periodically updated to reflect changing road conditions and evolving best practices. Stay informed, drive responsibly, and together, let's create a safer road environment for all.
 
 ## 2. General Road User Responsibilities
+
 1. All road users shall operate their vehicles in a responsible, cautious, and courteous manner, respecting the rights and safety of others.
 2. Road users shall comply with all applicable traffic laws, regulations, and road signs.
 3. Road users shall maintain proper control of their vehicles, avoiding distractions and impairment that may jeopardize safety.
@@ -135,7 +136,7 @@ Image: [Insert image location]
 
 #### 5.2.2. Solid White Line
 
-Description: A solid white line indicates the edge of the road or the boundary of a specific lane. Do not cross this line, except in emergencies or when directed by a traffic authority. Roads which already have a clear visual or physical boundary do not require the edge line but they can have one. 
+Description: A solid white line indicates the edge of the road or the boundary of a specific lane. Do not cross this line, except in emergencies or when directed by a traffic authority. Roads which already have a clear visual or physical boundary do not require the edge line but they can have one.
 Image: [Insert image location]
 
 #### 5.2.3. Lane Arrow
@@ -208,11 +209,12 @@ The yellow (amber) light follows the red light phase. It serves as a warning tha
    ![Yellow (Amber) Light](image_link)
 
 ### 7.3 Green Light Phase
+
 The green light indicates that drivers have the right of way to proceed through the intersection, provided it is clear and safe to do so. Drivers should still exercise caution and be aware of pedestrians and other vehicles.
 
    ![Green Light](image_link)
 
-It is essential to follow the instructions given by traffic signals at all times. Disregarding a red light or failing to yield to the right of way can result in serious consequences and penalties as specified in ["12: Prohibited Activities."](#12-prohibited-activities)
+It is essential to follow the instructions given by traffic signals at all times. Disregarding a red light or failing to yield to the right of way can result in serious consequences and penalties as specified in ["13: Prohibited Activities."](#13-prohibited-activities)
 
 ## 8. Driving on the Left
 
@@ -222,6 +224,7 @@ It is essential to follow the instructions given by traffic signals at all times
 4. It is important to be aware of other vehicles and adhere to traffic rules and regulations at all times.
 
 ## 9: Right of Way
+
 1. Road users shall yield the right of way to vehicles and pedestrians as prescribed by traffic laws, road signs, and signals.
 2. At intersections and junctions, road users shall yield to vehicles approaching from the right unless otherwise directed by traffic signs or signals.
 
@@ -234,7 +237,7 @@ It is essential to follow the instructions given by traffic signals at all times
 
 ## 11. Pedestrians and Cyclists
 
-1. Pedestrians shall use designated sidewalks, footpaths, and pedestrian crossings, following traffic signals and yielding to vehicles when crossing the road.
+1. Pedestrians shall use designated pavements, footpaths, and pedestrian crossings, following traffic signals and yielding to vehicles when crossing the road.
 2. Cyclists shall use designated bike lanes or the leftmost part of the road, adhering to traffic rules and signals applicable to motor vehicles.
 3. Motor vehicle drivers shall exercise caution and give priority to pedestrians and cyclists, ensuring their safety and well-being on the roads.
 4. Road users shall exercise caution and yield to pedestrians at pedestrian crossings, and other designated areas.

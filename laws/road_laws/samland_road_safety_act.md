@@ -12,7 +12,7 @@
    - SDOT shall ensure that road construction projects adhere to engineering standards, environmental regulations, and safety guidelines.
    - SDOT shall coordinate with relevant agencies and stakeholders to minimize disruptions and maximize safety during construction.
 4. Regulation Responsibilities:
-   - SDOT shall develop and publish regulations, guidelines, and codes related to road safety, maintenance, construction, and road user behavior.
+   - SDOT shall develop and publish regulations, guidelines, and codes related to road safety, maintenance, construction, and road user behaviour.
    - SDOT shall regularly review and update these regulations to reflect advancements in road safety practices, technology, and industry standards.
    - SDOT shall provide guidance and support to road users, contractors, and local authorities regarding compliance with road-related regulations.
 
@@ -25,7 +25,7 @@
 ## Article 3: Penalties
 
 1. SDOT shall establish penalties and fines for violations of road safety regulations, including but not limited to speeding, reckless driving, and failure to comply with traffic signals.
-2. Penalties shall be proportionate to the severity of the offense and aimed at deterring unsafe driving practices.
+2. Penalties shall be proportionate to the severity of the offence and aimed at deterring unsafe driving practices.
 3. SDOT shall work with law enforcement agencies to enforce road safety laws and ensure appropriate penalties are imposed on violators.
 
 ## Article 4: Driver Licensing

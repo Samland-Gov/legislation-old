@@ -1,18 +1,22 @@
 # Samland Parliament Act
 
-## Preamble:
-The Parliament Act aims to simplify the understanding of how the Parliament is used and operated in Samland. It determins how the Parliament is structured, how laws are passed, and how roles are appointed.
+## Preamble
+
+The Parliament Act aims to simplify the understanding of how the Parliament is used and operated in Samland. It determines how the Parliament is structured, how laws are passed, and how roles are appointed.
 
 ## Article 1: Role of Parliament
+
 1. The Parliament of Samland shall be the legislative body of the country and shall be responsible for passing laws.
 2. The government will be held in the Parliament and operate on democratic principles.
 
 ## Article 3: Structure of Parliament
+
 1. The head of government of Samland shall be the Prime Minister, who shall be elected by the members of Parliament.
 2. The Speaker of the Parliament shall set the agenda for each parliamentary session and provide notice of the agenda to all members in advance. The Speaker of the Parliament shall elected by the members of Parliament.
 3. The members of Parliament shall be elected by the residents of Samland.
 
 ## Article 4: Elections and Term Limits
+
 1. Elections for members of Parliament shall be held at regular intervals, not to exceed five years, as determined by the electoral law of Samland.
 2. The electoral system shall be based on the electoral law.
 3. Members of Parliament shall serve a term of four to five years.
@@ -21,6 +25,7 @@ The Parliament Act aims to simplify the understanding of how the Parliament is u
 6. The electoral law of Samland shall determine the specific details of the election process, including the eligibility of voters, nomination of candidates, and conduct of the election.
 
 ## Article 5: Election of the Prime Minister
+
 1. The Parliament shall elect the Prime Minister from among its members.
 2. The leader of the political party with the largest number of seats in the Parliament shall be invited by the President to form the government.
 3. The leader of the political party forming the government shall be proposed as the Prime Minister candidate.
@@ -28,6 +33,7 @@ The Parliament Act aims to simplify the understanding of how the Parliament is u
 5. If the proposed candidate fails to receive a majority vote, the Parliament shall vote again on another candidate until a candidate receives a majority vote.
 
 ## Article 6: Election of the Speaker of the Parliament
+
 1. The Speaker of the Parliament shall be elected by the members of Parliament at the beginning of each parliamentary session.
 2. Any member of Parliament may be nominated for the position of Speaker.
 3. The election of the Speaker shall be conducted by secret ballot.
@@ -36,6 +42,7 @@ The Parliament Act aims to simplify the understanding of how the Parliament is u
 6. The Speaker of the Parliament shall serve for the duration of the parliamentary session, unless they resigns or is removed by a two-thirds vote of the members of Parliament.
 
 ## Article 7: Parliamentary Proceedings (Sessions)
+
 1. The Parliament shall convene for regular sessions at least twice a year.
 2. The Speaker of the Parliament shall set the agenda for each session and provide notice of the agenda to all members in advance.
 3. Proposed laws shall be included on the agenda for debate and voting.
@@ -44,9 +51,10 @@ The Parliament Act aims to simplify the understanding of how the Parliament is u
 6. Minutes (a detailed record) shall be kept of all parliamentary proceedings and made available to the public.
 
 ## Article 8: Passing Laws in Parliament
+
 1. Any member of the Parliament may propose a new law for consideration.
 2. The proposed law shall be introduced to the Parliament by the member who proposed it, and shall be debated and discussed by the Parliament.
-3. The proposed law shall be voted on by the Parliament. If a majority of the members vote in favor of the proposed law, it shall be given to the President.
+3. The proposed law shall be voted on by the Parliament. If a majority of the members vote in favour of the proposed law, it shall be given to the President.
 4. If the proposed law fails to receive a majority vote, it may be revised and resubmitted for consideration.
 5. Once the Parliament has passed a law, it shall be sent to the President of Samland for approval or veto.
 6. If the President of Samland approves the law, it shall become law.
@@ -54,9 +62,10 @@ The Parliament Act aims to simplify the understanding of how the Parliament is u
 8. If Parliament passes the law again with a two-thirds majority, it shall become law without the President's approval.
 
 ## Article 9: Rules of Debate and Voting in Parliament
+
 1. Members of Parliament shall have the right to speak and express their opinions on proposed laws during debates.
 2. The Speaker of the Parliament shall preside over the debates and maintain order and decorum.
 3. Each member of Parliament shall have one vote on each proposed law.
-3. Voting on proposed laws shall be conducted by a show of hands, except where a secret ballot is requested by at least one-third of the members present.
-4. A simple majority of the members present shall be required for a proposed law to be passed to the President.
-5. Members of Parliament shall be allowed to propose amendments to proposed laws, which shall be debated and voted on separately before the final vote on the proposed law.
+4. Voting on proposed laws shall be conducted by a show of hands, except where a secret ballot is requested by at least one-third of the members present.
+5. A simple majority of the members present shall be required for a proposed law to be passed to the President.
+6. Members of Parliament shall be allowed to propose amendments to proposed laws, which shall be debated and voted on separately before the final vote on the proposed law.
