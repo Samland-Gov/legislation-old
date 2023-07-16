@@ -299,8 +299,6 @@ Certainly! Here are new sections and articles that describe the eligibility for 
 
 ### Emergencies, Amendments and Final Provisions
 
-Certainly! Here's a description of ideal emergency powers that can be included in the "Section 12: Emergency Powers" of your constitution:
-
 #### Section 12: Emergency Powers
 
 ##### Article 37: Declaration of Emergency
