@@ -5,11 +5,7 @@ This repository contains a collection of laws and regulations for the fictional 
 Repository Structure:
 
 1. Constitution:
-   - File: [constitution/constitution.md](./constitution/constitution.md)
+   - File: [constitution/README.md](./constitution/README.md)
    - Description: The constitution of Samland serves as the supreme law of the land, defining the fundamental principles, structure of government, and the rights and responsibilities of its citizens. It establishes the democratic framework upon which the nation operates.
-
-2. Global Laws:
-   - Folder: [./laws/README.md](./laws/README.md)
-   - Description: This folder contains laws and regulations with a global impact. It covers governance laws, road laws, and other legal areas relevant to Samland's operations beyond its national boundaries.
 
 Please note that the laws and regulations provided within this repository are fictional and do not hold any legal validity in the real world. They are designed for illustrative purposes and are specifically intended for the Miners Online Minecraft server. These laws establish guidelines and rules within the fictional world of the server to enhance the gameplay experience and create a structured environment.
