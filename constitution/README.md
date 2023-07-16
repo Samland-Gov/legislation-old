@@ -30,13 +30,26 @@ We, the people of Samland, establish this constitution to govern our land, guide
     - [Article 16: Secretary of State](#article-16-secretary-of-state)
     - [Article 17: Lord Chancellor](#article-17-lord-chancellor)
     - [Article 18: Justices of the Peace](#article-18-justices-of-the-peace)
-  - [Section 4: Religious Affairs](#section-4-religious-affairs)
-    - [Article 19: Church Hierarchy](#article-19-church-hierarchy)
+  - [Section 4: Lawmaking Process](#section-4-lawmaking-process)
+    - [Article 19: Introduction of Bills](#article-19-introduction-of-bills)
+    - [Article 20: Debate and Committee Review](#article-20-debate-and-committee-review)
+    - [Article 21: Voting and Passage of Bills](#article-21-voting-and-passage-of-bills)
+  - [Section 5: Appointments and Responsibilities](#section-5-appointments-and-responsibilities)
+    - [Article 22: Appointment of the Privy Council](#article-22-appointment-of-the-privy-council)
+    - [Article 23: Appointment of the Home Secretary and Foreign Secretary](#article-23-appointment-of-the-home-secretary-and-foreign-secretary)
+    - [Article 24: Appointment of the Lord Chancellor](#article-24-appointment-of-the-lord-chancellor)
+    - [Article 25: Appointment of Justices of the Peace](#article-25-appointment-of-justices-of-the-peace)
+    - [Article 26: Appointment of Members of the House of Lords](#article-26-appointment-of-members-of-the-house-of-lords)
+    - [Article 27: Election of Members of the House of Commons](#article-27-election-of-members-of-the-house-of-commons)
+    - [Article 28: Qualifications for Membership in the House of Lords and House of Commons](#article-28-qualifications-for-membership-in-the-house-of-lords-and-house-of-commons)
+  - [Section 6: Religious Affairs](#section-6-religious-affairs)
+    - [Article 29: Church Hierarchy](#article-29-church-hierarchy)
+- [Electoral Law](#electoral-law)
 - [Amendments and Final Provisions](#amendments-and-final-provisions)
-  - [Section 5: Amendments](#section-5-amendments)
-    - [Article 20: Amendment Process](#article-20-amendment-process)
-  - [Section 6: Final Provisions](#section-6-final-provisions)
-    - [Article 21: Supremacy of the Constitution](#article-21-supremacy-of-the-constitution)
+  - [Section 7: Amendments](#section-7-amendments)
+    - [Article 30: Amendment Process](#article-30-amendment-process)
+  - [Section 8: Final Provisions](#section-8-final-provisions)
+    - [Article 31: Supremacy of the Constitution](#article-31-supremacy-of-the-constitution)
 
 ### Basic Principles
 
@@ -144,24 +157,85 @@ We, the people of Samland, establish this constitution to govern our land, guide
 1. Justices of the Peace shall be appointed as local officials responsible for maintaining law and order in their respective jurisdictions.
 2. Justices of the Peace shall have judicial and administrative roles, including presiding over local courts, executing the Monarch's orders, and collecting taxes.
 
-#### Section 4: Religious Affairs
+#### Section 4: Lawmaking Process
 
-##### Article 19: Church Hierarchy
+##### Article 19: Introduction of Bills
+
+1. Any Member of Parliament may propose bills for consideration in either house of Parliament.
+2. Bills may be introduced in the House of Commons or the House of Lords, and they shall go through a series of readings and debates before a vote is taken.
+
+##### Article 20: Debate and Committee Review
+
+1. Once a bill is introduced, it shall be subject to a thorough debate and examination in the relevant house of Parliament.
+2. Parliamentary committees shall be responsible for reviewing bills in detail, seeking expert opinions, and proposing amendments as necessary.
+
+##### Article 21: Voting and Passage of Bills
+
+1. After debate and committee review, a bill shall proceed to a final vote in the house where it was introduced.
+2. A bill shall require a majority vote in both the House of Commons and the House of Lords to pass.
+Once a bill is passed by both houses, it shall be presented to the Monarch for assent.
+3. If a bill fails to receive a majority vote in either house, it shall be deemed rejected and will not proceed further in the legislative process.
+4. A rejected bill may be reintroduced at a later time, subject to the discretion of the Member of Parliament who proposed it, or the Monarch in power.
+
+#### Section 5: Appointments and Responsibilities
+
+##### Article 22: Appointment of the Privy Council
+
+1. The Monarch shall have the authority to appoint members to the Privy Council, selecting individuals based on their expertise, experience, and trustworthiness.
+Appointments to the Privy Council shall be subject to confirmation by Parliament.
+
+##### Article 23: Appointment of the Home Secretary and Foreign Secretary
+
+1. The Monarch shall appoint the Home Secretary and Foreign Secretary, who shall serve as principal advisors on domestic and foreign affairs, respectively.
+2. The Home Secretary and Foreign Secretary shall be chosen based on their qualifications and expertise in the respective areas.
+
+##### Article 24: Appointment of the Lord Chancellor
+
+1. The Monarch, upon recommendation from the Privy Council, shall appoint the Lord Chancellor.
+The Lord Chancellor shall possess legal expertise and serve as the speaker of the House of Lords and the principal legal advisor to the Monarch.
+
+##### Article 25: Appointment of Justices of the Peace
+
+1. Justices of the Peace shall be appointed by the Monarch, in consultation with the Privy Council, to ensure the maintenance of law and order at the local level.
+2. Appointments shall consider the qualifications and integrity of individuals to carry out their judicial and administrative responsibilities effectively.
+
+##### Article 26: Appointment of Members of the House of Lords
+
+1. Members of the House of Lords shall be appointed based on their expertise, contributions to society, and distinguished service.
+2. Appointments to the House of Lords shall be made by the Monarch, in consultation with the Privy Council, taking into consideration recommendations from various sectors, including but not limited to academia, public service, and the arts.
+3. The appointment process shall be transparent and ensure diversity, representing a wide range of knowledge, experience, and perspectives.
+
+##### Article 27: Election of Members of the House of Commons
+
+1. Members of the House of Commons shall be elected by the eligible residents of Samland through free and fair elections.
+2. Elections for the House of Commons shall be held periodically as determined by law, allowing residents to choose their representatives.
+3. The electoral process shall be conducted in accordance with the Electoral Law, promoting transparency, accountability, and equal opportunity for all candidates.
+
+##### Article 28: Qualifications for Membership in the House of Lords and House of Commons
+
+1. The qualifications for membership in the House of Lords and House of Commons shall be determined by law, ensuring that individuals possess the necessary skills, knowledge, and integrity to fulfil their roles effectively.
+2. The qualifications shall include provisions for eligibility, residency requirements, and any other criteria deemed essential to uphold the principles of good governance and representation, in accordance with the Electoral Law.
+
+#### Section 6: Religious Affairs
+
+##### Article 29: Church Hierarchy
 
 1. The Church of Samland shall have a hierarchy led by the Monarch as the Supreme Governor.
 2. Bishops and archbishops shall oversee religious matters and administer the church at the local level.
 
+### Electoral Law
+
 ### Amendments and Final Provisions
 
-#### Section 5: Amendments
+#### Section 7: Amendments
 
-##### Article 20: Amendment Process
+##### Article 30: Amendment Process
 
 1. This Constitution may be amended through a formal process that requires the approval of the Monarch, Parliament, and the people, as specified by law.
 
-#### Section 6: Final Provisions
+#### Section 8: Final Provisions
 
-##### Article 21: Supremacy of the Constitution
+##### Article 31: Supremacy of the Constitution
 
 1. This Constitution shall be the supreme law of Samland, and all laws and actions shall be in accordance with its provisions.
 2. Any law or action inconsistent with this Constitution shall be deemed invalid.
