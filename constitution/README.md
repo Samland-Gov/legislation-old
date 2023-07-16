@@ -33,7 +33,7 @@ We, the people of Samland, establish this constitution to govern our land, guide
   - [Section 4: Religious Affairs](#section-4-religious-affairs)
     - [Article 19: Church Hierarchy](#article-19-church-hierarchy)
 - [Amendments and Final Provisions](#amendments-and-final-provisions)
-  - [Section 5: Amendments Final Provisions](#section-5-amendments-final-provisions)
+  - [Section 5: Amendments](#section-5-amendments)
     - [Article 20: Amendment Process](#article-20-amendment-process)
   - [Section 6: Final Provisions](#section-6-final-provisions)
     - [Article 21: Supremacy of the Constitution](#article-21-supremacy-of-the-constitution)
@@ -153,7 +153,7 @@ We, the people of Samland, establish this constitution to govern our land, guide
 
 ### Amendments and Final Provisions
 
-#### Section 5: Amendments Final Provisions
+#### Section 5: Amendments
 
 ##### Article 20: Amendment Process
 
