@@ -299,8 +299,6 @@ Certainly! Here are new sections and articles that describe the eligibility for 
 
 ### Emergencies, Amendments and Final Provisions
 
-Certainly! Here's a description of ideal emergency powers that can be included in the "Section 12: Emergency Powers" of your constitution:
-
 #### Section 12: Emergency Powers
 
 ##### Article 37: Declaration of Emergency
@@ -335,8 +333,6 @@ Certainly! Here's a description of ideal emergency powers that can be included i
 
 1. Any abuse of emergency powers, such as their use for political gain or discrimination, shall be strictly prohibited.
 2. Individuals affected by emergency measures shall have the right to seek legal recourse and remedies for any violations of their rights.
-
-These provisions outline ideal emergency powers, emphasizing the need for a clear declaration of emergency, limited scope and duration, safeguards for fundamental rights, transparency, accountability, judicial oversight, parliamentary scrutiny, and protection against abuses. These principles aim to ensure that emergency powers are exercised responsibly and proportionately, preserving the balance between public safety and individual liberties even in times of crisis.
 
 #### Section 13: Amendments
 
