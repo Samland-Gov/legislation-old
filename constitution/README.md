@@ -58,12 +58,27 @@ We, the people of Samland, in order to form a more perfect union, establish just
     - [Article 40: E-Citizenship Records and Privacy](#article-40-e-citizenship-records-and-privacy)
     - [Article 41: Dual E-Citizenship](#article-41-dual-e-citizenship)
     - [Article 42: Amendments to E-Citizenship Act](#article-42-amendments-to-e-citizenship-act)
+  - [Section 6: Traditional Citizenship](#section-6-traditional-citizenship)
+    - [Article 43: Acquisition of Citizenship](#article-43-acquisition-of-citizenship)
+    - [Article 44: Dual Citizenship](#article-44-dual-citizenship)
+    - [Article 45: Loss of Citizenship](#article-45-loss-of-citizenship)
+    - [Article 46: Citizenship Privileges](#article-46-citizenship-privileges)
+    - [Article 47: Responsibilities of Citizens](#article-47-responsibilities-of-citizens)
+    - [Article 48: Protection of Citizenship](#article-48-protection-of-citizenship)
+  - [Section 7: Transition from E-Citizenship to Traditional Citizenship](#section-7-transition-from-e-citizenship-to-traditional-citizenship)
+    - [Article 49: Eligibility for Traditional Citizenship](#article-49-eligibility-for-traditional-citizenship)
+    - [Article 50: Application Process](#article-50-application-process)
+    - [Article 51: Background Check and Review](#article-51-background-check-and-review)
+    - [Article 52: Citizenship Examination](#article-52-citizenship-examination)
+    - [Article 53: Approval and Ceremony](#article-53-approval-and-ceremony)
+    - [Article 54: Granting of Samland Citizenship](#article-54-granting-of-samland-citizenship)
+    - [Article 55: Dual E-Citizenship and Samland Citizenship](#article-55-dual-e-citizenship-and-samland-citizenship)
 - [Amendments and Final Provisions](#amendments-and-final-provisions)
-  - [Section 5: Amendments and Final Provisions](#section-5-amendments-and-final-provisions)
-    - [Article 43: Supremacy of the Constitution](#article-43-supremacy-of-the-constitution)
-    - [Article 44: Amendment Process](#article-44-amendment-process)
-    - [Article 45: Oath of Office](#article-45-oath-of-office)
-    - [Article 46: Ratification](#article-46-ratification)
+  - [Section 8: Amendments and Final Provisions](#section-8-amendments-and-final-provisions)
+    - [Article 56: Supremacy of the Constitution](#article-56-supremacy-of-the-constitution)
+    - [Article 57: Amendment Process](#article-57-amendment-process)
+    - [Article 58: Oath of Office](#article-58-oath-of-office)
+    - [Article 59: Ratification](#article-59-ratification)
 
 ### Basic Principles
 
@@ -257,7 +272,7 @@ We, the people of Samland, in order to form a more perfect union, establish just
 
 ##### Article 34: Definition of E-Citizenship
 
-1.E-citizenship of Samland is a voluntary and non-residential form of association with the Free Republic of Samland ("Samland") that grants individuals certain rights and privileges, as specified in this Constitution and relevant legislation.
+1. E-citizenship of Samland is a voluntary and non-residential form of association with the Samland that grants individuals certain rights and privileges, as specified in this Constitution and relevant legislation.
 
 ##### Article 35: Eligibility for E-Citizenship
 
@@ -299,24 +314,94 @@ We, the people of Samland, in order to form a more perfect union, establish just
 
 1. The E-Citizenship Act, along with any regulations related to e-citizenship, may be amended through the legislative process outlined in this Constitution.
 
+#### Section 6: Traditional Citizenship
+
+##### Article 43: Acquisition of Citizenship
+
+1. Samland shall grant citizenship to individuals who fulfil the following criteria:
+   a. Birthright Citizenship: Any person born within the territorial boundaries of Samland shall be considered a citizen by birth.
+   b. Descent: Individuals born outside Samland to one or both parents who are Samland citizens shall be eligible for citizenship by descent, subject to verification.
+   c. Naturalization: Foreign nationals who have resided lawfully and continuously in Samland for a specified period, as determined by law, may apply for citizenship through the process of naturalization.
+
+##### Article 44: Dual Citizenship
+
+1. Samland shall recognize the concept of dual citizenship, allowing its citizens to hold citizenship in other countries simultaneously.
+2. Citizens who acquire citizenship of another country after becoming a Samland citizen shall retain their Samland citizenship.
+
+##### Article 45: Loss of Citizenship
+
+1. Samland citizenship may be lost through the following means:
+   a. Renunciation: A citizen may voluntarily renounce their Samland citizenship by filing a formal declaration with the appropriate government authorities.
+   b. Acquisition of Foreign Citizenship: Citizens who voluntarily acquire citizenship in another country may automatically lose their Samland citizenship, subject to exceptions provided by law.
+   c. Revocation: In cases of fraud, misrepresentation, or actions deemed detrimental to the interests of Samland, citizenship may be revoked through a fair and transparent legal process.
+
+##### Article 46: Citizenship Privileges
+
+1. Samland citizens shall enjoy the full rights, protections, and benefits afforded by the Constitution and laws of Samland, including but not limited to:
+   a. Right to Vote: Citizens shall have the right to participate in all elections and referendums in Samland, subject to age requirements and other limitations as specified by law.
+   b. Right to Work: Citizens shall have the right to seek employment and engage in economic activities within Samland, subject to applicable laws and regulations.
+   c. Right to Education and Welfare: Citizens shall have access to education, social services, and welfare programs as provided by the government.
+
+##### Article 47: Responsibilities of Citizens
+
+1. Samland citizens have a duty to uphold the laws of Samland, respect the rights of others, and contribute positively to the well-being and development of the nation and its community.
+
+##### Article 48: Protection of Citizenship
+
+1. The Samland government shall ensure the protection of citizens' rights and prevent any arbitrary deprivation of citizenship, except as allowed by law and due process.
+
+#### Section 7: Transition from E-Citizenship to Traditional Citizenship
+
+##### Article 49: Eligibility for Traditional Citizenship
+
+1. E-citizens of Samland who have held e-citizenship for a minimum period of five years shall be eligible to apply for Samland citizenship.
+
+##### Article 50: Application Process
+
+1. Eligible e-citizens seeking Samland citizenship shall submit a formal application to the relevant government authorities as prescribed by law.
+2. The application shall include necessary documentation to establish the applicant's identity, proof of e-citizenship duration, and any other required information.
+
+##### Article 51: Background Check and Review
+
+1. Upon receipt of the application, the Samland government shall conduct a background check and review the applicant's conduct during their e-citizenship period.
+2. The review process shall include an assessment of the applicant's adherence to Samland's principles and values and their contributions to the community during their e-citizenship.
+
+##### Article 52: Citizenship Examination
+
+1. As part of the application process, eligible applicants may be required to undergo a citizenship examination to test their knowledge of Samland's history, culture, and governance structure.
+
+##### Article 53: Approval and Ceremony
+
+1. If the application is deemed satisfactory and the background check yields no disqualifying factors, the Samland government shall approve the application for Samland citizenship.
+2. Successful applicants shall be invited to participate in a citizenship ceremony, during which they will take an oath or affirmation of allegiance to Samland and its Constitution.
+
+##### Article 54: Granting of Samland Citizenship
+
+1. Following the citizenship ceremony, the Samland government shall issue a certificate of citizenship to the newly naturalized citizens, officially recognizing their transition from e-citizenship to full Samland citizenship.
+2. The new citizens shall enjoy all the rights and privileges of Samland citizenship as outlined in the Constitution and relevant laws.
+
+##### Article 55: Dual E-Citizenship and Samland Citizenship
+
+1. The transition from e-citizenship to Samland citizenship shall not affect an individual's right to hold dual citizenship, allowing new Samland citizens to retain their e-citizenship if they so desire.
+
 ### Amendments and Final Provisions
 
-#### Section 5: Amendments and Final Provisions
+#### Section 8: Amendments and Final Provisions
 
-##### Article 43: Supremacy of the Constitution
+##### Article 56: Supremacy of the Constitution
 
 1. This Constitution, and the laws of Samland which shall be made in pursuance thereof, shall be the supreme law of the land, and the judges in every state shall be bound thereby, anything in the laws or constitutions of the states to the contrary notwithstanding.
 2. Any law or action inconsistent with this Constitution shall be deemed invalid.
 
-##### Article 44: Amendment Process
+##### Article 57: Amendment Process
 
 1. This Constitution may be amended by a proposal that receives a two-thirds majority vote in both houses of the legislature or by a national convention called by Congress upon the request of two-thirds of the state legislatures.
 2. Proposed amendments must be ratified by three-fourths of the state legislatures or by conventions in three-fourths of the states before they become part of the Constitution.
 
-##### Article 45: Oath of Office
+##### Article 58: Oath of Office
 
 1. All elected and appointed officials of Samland shall take an oath or affirmation to support and defend this Constitution.
 
-##### Article 46: Ratification
+##### Article 59: Ratification
 
 1. This Constitution shall be established as the supreme law of Samland upon ratification by conventions in each state, as determined by the Congress.
