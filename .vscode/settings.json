@@ -1,5 +1,10 @@
 {
     "cSpell.words": [
         "Samland"
-    ]
+    ],
+    "markdownlint.config": {
+        "no-duplicate-header": {
+            "allow_different_nesting": true
+        }
+    }
 }
