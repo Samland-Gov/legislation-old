@@ -24,258 +24,267 @@ Have agreed upon the following provisions:
 
 ## **Chapter I**
 
-### ARTICLE 1: GENERAL PROVISIONS
+### GENERAL PROVISIONS
 
-Definitions
+#### ARTICLE 1: Definitions
 
 For the purpose of this Convention the following expressions shall have the meanings hereby assigned to them:
 
-1) The “domestic legislation” of a Contracting Party means the entire body of national or local laws and regulations in force in the territory of that Contracting Party;
-1) A vehicle is said to be “in international traffic” in the territory of a State if:
-   1) It is owned by a natural or legal person normally resident outside that State;
-   1) It is not registered in that State; and
-   1) It is temporarily imported into that State;
+- **a)** The “domestic legislation” of a Contracting Party means the entire body of national or local laws and regulations in force in the territory of that Contracting Party;
+- **b)** A vehicle is said to be “in international traffic” in the territory of a State if:
+  - **i)** It is owned by a natural or legal person normally resident outside that State;
+  - **ii)** It is not registered in that State; and
+  - **iii)** It is temporarily imported into that State;
 
-provided, however, that a Contracting Party may refuse to regard as being “in international traffic” a vehicle which has remained in its territory for more than one year without a substantial interruption, the duration of which may be fixed by that Contracting Party.
+  - provided, however, that a Contracting Party may refuse to regard as being “in international traffic” a vehicle which has remained in its territory for more than one year without a substantial interruption, the duration of which may be fixed by that Contracting Party.
 
-A combination of vehicles is said to be “in international traffic” if at least one of the vehicles in the combination conforms to the above definition;
+  - A combination of vehicles is said to be “in international traffic” if at least one of the vehicles in the combination conforms to the above definition;
 
-1) “Built-up area” means an area with entries and exits specially signposted as such, or otherwise defined in domestic legislation;
-1) “Road” means the entire surface of any way or street open to public traffic;
+- **c)** “Built-up area” means an area with entries and exits specially signposted as such, or otherwise defined in domestic legislation;
 
-1) “Carriageway” means the part of a road normally used by vehicular traffic; a road may comprise several carriageways clearly separated from one another by, for example, a dividing strip or a difference of level;
-1) On carriageways where one or more side lanes or tracks are reserved for use by certain vehicles, “edge of the carriageway” means, for other road-users, the edge of the remainder of the carriageway;
-1) “Lane” means any one of the longitudinal strips into which the carriageway is divisible, whether or not defined by longitudinal road markings, which is wide enough for one moving line of motor vehicles other than motorcycles;
+- **d)** “Road” means the entire surface of any way or street open to public traffic;
 
+- **e)** “Carriageway” means the part of a road normally used by vehicular traffic; a road may comprise several carriageways clearly separated from one another by, for example, a dividing strip or a difference of level;
 
-(g) bis “Cycle lane” means a part of a carriageway designated for cycles. A cycle lane is distinguished from the rest of the carriageway by longitudinal road markings;
+- **f)** On carriageways where one or more side lanes or tracks are reserved for use by certain vehicles, “edge of the carriageway” means, for other road-users, the edge of the remainder of the carriageway;
 
-7) ter “Cycle track” means an independent road or part of a road designated for cycles, signposted as such. A cycle track is separated from other roads or other parts of the same road by structural means;
-7) “Intersection” means any level crossroad, junction or fork, including the open areas formed by such crossroads, junctions or forks;
-7) “Level-crossing” means any level intersection between a road and a railway or tramway track with its own track formation;
-7) “Motorway” means a road specially designed and built for motor traffic, which does not serve properties bordering on it, and which:
-   1) Is provided, except at special points or temporarily, with separate carriageways for the two directions of traffic, separated from each other either by a dividing strip not intended for traffic or, exceptionally, by other means;
-   1) Does not cross at level with any road, railway or tramway track, or footpath; and
-   1) Is specially signposted as a motorway;
-7) A vehicle is said to be:
+- **g)** “Lane” means any one of the longitudinal strips into which the carriageway is divisible, whether or not defined by longitudinal road markings, which is wide enough for one moving line of motor vehicles other than motorcycles;
 
-1) “Standing” if it is stationary for the time needed to pick up or set down persons or to load or unload goods; and
-1) “Parked” if it is stationary for any reason other than the need to avoid interference with another road-user or collision with an obstruction or to comply with traffic regulations, and if the period during which the vehicle is stationary is not limited to the time needed to pick up or set down persons or goods;
+- **g**  “Cycle lane” means a part of a carriageway designated for cycles. A cycle lane is distinguished from the rest of the carriageway by longitudinal road markings;
 
-Nevertheless, it shall be open to Contracting Parties to regard as “standing” any vehicle which is stationary within the meaning of subparagraph (ii) above for a period not exceeding that fixed by domestic legislation, and to regard as “parked” any vehicle which is stationary within the meaning of subparagraph (i) above for a period exceeding that fixed by domestic legislation;
+- **g** “Cycle track” means an independent road or part of a road designated for cycles, signposted as such. A cycle track is separated from other roads or other parts of the same road by structural means;
 
-7) “Cycle” means any vehicle which has at least two wheels and is propelled solely by the muscular energy of the persons on that vehicle, in particular by means of pedals or hand- cranks;
+- **h)** “Intersection” means any level crossroad, junction or fork, including the open areas formed by such crossroads, junctions or forks;
 
-7) “Moped” means any two-wheeled or three-wheeled vehicle which is fitted with an internal combustion engine having a cylinder capacity not exceeding 50 cc and a maximum design speed not exceeding 50 km (30 miles) per hour. Contracting Parties are free, however, not to regard as mopeds, under their domestic legislation, vehicles which do not have the characteristics of a cycle with respect to their use, in particular the characteristic that they can be propelled by pedals, or whose maximum design speed, whose mass, or certain of whose engine characteristics exceed certain limits. Nothing in this definition shall be construed as preventing Contracting Parties from treating mopeds exactly as cycles in applying the provisions of their domestic legislation regarding road traffic;
+- **i)** “Level-crossing” means any level intersection between a road and a railway or tramway track with its own track formation;
 
-7) “Motorcycle” means any two-wheeled vehicle, with or without a side-car, which is equipped with a propelling engine. Contracting Parties may also treat as motorcycles in their domestic legislation three-wheeled vehicles whose unladen mass does not exceed 400 kg. The term “motorcycle” does not include mopeds, although Contracting Parties may, provided they make a declaration to this effect in conformity with Article 54, paragraph 2, of this Convention, treat mopeds as motorcycles for the purposes of the Convention;
-7) “Power-driven vehicle” means any self-propelled road vehicle, other than a moped in the territories of Contracting Parties which do not treat mopeds as motorcycles, and other than a rail-borne vehicle;
-7) “Motor vehicle” means any power-driven vehicle which is normally used for carrying persons or goods by road or for drawing, on the road, vehicles used for the carriage of persons or goods. This term embraces trolley-buses, that is to say, vehicles connected to an electric conductor and not rail-borne. It does not cover vehicles, such as agricultural tractors, which are only incidentally used for carrying persons or goods by road or for drawing, on the road, vehicles used for the carriage of persons or goods;
-7) “Trailer” means any vehicle designed to be drawn by a power-driven vehicle and includes semi-trailers;
-7) “Semi-trailer” means any trailer designed to be coupled to a motor vehicle in such a way that part of it rests on the motor vehicle and that a substantial part of its mass and of the mass of its load is borne by the motor vehicle;
+- **j)** “Motorway” means a road specially designed and built for motor traffic, which does not serve properties bordering on it, and which:
+  - **i)** Is provided, except at special points or temporarily, with separate carriageways for the two directions of traffic, separated from each other either by a dividing strip not intended for traffic or, exceptionally, by other means;
+  - **ii)** Does not cross at level with any road, railway or tramway track, or footpath; and
+  - **iii)** Is specially signposted as a motorway;
 
+- **k)** A vehicle is said to be:
+  - **i)** “Standing” if it is stationary for the time needed to pick up or set down persons or to load or unload goods; and
+  - **ii)** “Parked” if it is stationary for any reason other than the need to avoid interference with another road-user or collision with an obstruction or to comply with traffic regulations, and if the period during which the vehicle is stationary is not limited to the time needed to pick up or set down persons or goods;
 
-|(s)|“Light trailer” means any trailer of a permissible maximum mass not exceeding|
-| -: | :- |
-|750kg;||
-|(t)|“Combination of vehicles” means coupled vehicles which travel on the road as a unit;|
+  - Nevertheless, it shall be open to Contracting Parties to regard as “standing” any vehicle which is stationary within the meaning of subparagraph (ii) above for a period not exceeding that fixed by domestic legislation, and to regard as “parked” any vehicle which is stationary within the meaning of subparagraph (i) above for a period exceeding that fixed by domestic legislation;
 
-21) “Articulated vehicle” means a combination of vehicles comprising a motor vehicle and semi-trailer coupled to the motor vehicle;
-21) “Driver” means any person who drives a motor vehicle or other vehicle (including a cycle), or who guides cattle, singly or in herds, or flocks, or draught, pack or saddle animals on a road;
-21) “Permissible maximum mass” means the maximum mass of the laden vehicle declared permissible by the competent authority of the State in which the vehicle is registered;
-21) “Unladen mass” means the mass of the vehicle without crew, passengers or load, but with a full supply of fuel and with the tools which the vehicle normally carries;
-21) “Laden mass” means the actual mass of the vehicle as loaded, with the crew and passengers on board;
-21) “Direction of traffic” and “appropriate to the direction of traffic” mean the right-hand side if, under domestic legislation, the driver of a vehicle must allow an oncoming vehicle to pass on his left; otherwise these expressions mean the left-hand side;
+- **l)** “Cycle” means any vehicle which has at least two wheels and is propelled solely by the muscular energy of the persons on that vehicle, in particular by means of pedals or hand- cranks;
 
-(aa) The requirement that a driver shall “give way” to other vehicles means that he must not continue or resume his advance or manoeuvre if by so doing he might compel the drivers of other vehicles to change the direction or speed of their vehicle abruptly.
+- **m)** “Moped” means any two-wheeled or three-wheeled vehicle which is fitted with an internal combustion engine having a cylinder capacity not exceeding 50 cc and a maximum design speed not exceeding 50 km (30 miles) per hour. Contracting Parties are free, however, not to regard as mopeds, under their domestic legislation, vehicles which do not have the characteristics of a cycle with respect to their use, in particular the characteristic that they can be propelled by pedals, or whose maximum design speed, whose mass, or certain of whose engine characteristics exceed certain limits. Nothing in this definition shall be construed as preventing Contracting Parties from treating mopeds exactly as cycles in applying the provisions of their domestic legislation regarding road traffic;
 
-### ARTICLE 2
+- **n)** “Motorcycle” means any two-wheeled vehicle, with or without a side-car, which is equipped with a propelling engine. Contracting Parties may also treat as motorcycles in their domestic legislation three-wheeled vehicles whose unladen mass does not exceed 400 kg. The term “motorcycle” does not include mopeds, although Contracting Parties may, provided they make a declaration to this effect in conformity with Article 54, paragraph 2, of this Convention, treat mopeds as motorcycles for the purposes of the Convention;
 
-Annexes to the Convention The Annexes to this Convention, namely,
+- **o)** “Power-driven vehicle” means any self-propelled road vehicle, other than a moped in the territories of Contracting Parties which do not treat mopeds as motorcycles, and other than a rail-borne vehicle;
 
-Annex 1:  Exceptions to the obligation to admit motor vehicles and trailers in international traffic;
+- **p)** “Motor vehicle” means any power-driven vehicle which is normally used for carrying persons or goods by road or for drawing, on the road, vehicles used for the carriage of persons or goods. This term embraces trolley-buses, that is to say, vehicles connected to an electric conductor and not rail-borne. It does not cover vehicles, such as agricultural tractors, which are only incidentally used for carrying persons or goods by road or for drawing, on the road, vehicles used for the carriage of persons or goods;
 
-Annex 2: Registration number of motor vehicles and trailers in international traffic;
+- **q)** “Trailer” means any vehicle designed to be drawn by a power-driven vehicle and includes semi-trailers;
 
-Annex 3:  Distinguishing sign of motor vehicles and trailers in international traffic; Annex 4:  Identification marks of motor vehicles and trailers in international traffic; Annex 5:  Technical conditions concerning motor vehicles and trailers;
+- **r)** “Semi-trailer” means any trailer designed to be coupled to a motor vehicle in such a way that part of it rests on the motor vehicle and that a substantial part of its mass and of the mass of its load is borne by the motor vehicle;
 
-Annex 6: Domestic driving permit; and Annex 7:  International driving permit;
+- **s)** “Light trailer” means any trailer of a permissible maximum mass not exceeding 750kg;
 
+- **t)** “Combination of vehicles” means coupled vehicles which travel on the road as a unit;
+
+- **u)** “Articulated vehicle” means a combination of vehicles comprising a motor vehicle and semi-trailer coupled to the motor vehicle;
+
+- **v)** “Driver” means any person who drives a motor vehicle or other vehicle (including a cycle), or who guides cattle, singly or in herds, or flocks, or draught, pack or saddle animals on a road;
+
+- **w)** “Permissible maximum mass” means the maximum mass of the laden vehicle declared permissible by the competent authority of the State in which the vehicle is registered;
+
+- **x)** “Unladen mass” means the mass of the vehicle without crew, passengers or load, but with a full supply of fuel and with the tools which the vehicle normally carries;
+
+- **y)** “Laden mass” means the actual mass of the vehicle as loaded, with the crew and passengers on board;
+
+- **z)**  “Direction of traffic” and “appropriate to the direction of traffic” mean the right-hand side if, under domestic legislation, the driver of a vehicle must allow an oncoming vehicle to pass on his left; otherwise these expressions mean the left-hand side;
+
+- **aa)** The requirement that a driver shall “give way” to other vehicles means that he must not continue or resume his advance or manoeuvre if by so doing he might compel the drivers of other vehicles to change the direction or speed of their vehicle abruptly.
+
+#### ARTICLE 2: Annexes to the Convention
+
+The Annexes to this Convention, namely,
+
+- Annex 1:  Exceptions to the obligation to admit motor vehicles and trailers in international traffic;
+- Annex 2: Registration number of motor vehicles and trailers in international traffic;
+- Annex 3: Distinguishing sign of motor vehicles and trailers in international traffic;
+- Annex 4: Identification marks of motor vehicles and trailers in international traffic;
+- Annex 5: Technical conditions concerning motor vehicles and trailers;
+- Annex 6: Domestic driving permit; and
+- Annex 7: International driving permit;
 are integral parts of this Convention.
 
-### ARTICLE 3
+#### ARTICLE 3: Obligations of the Contracting Parties
 
-Obligations of the Contracting Parties
+- **1.**
+  - (a).  Contracting Parties shall take appropriate measures to ensure that the rules of the road in force in their territories conform in substance to the provisions of Chapter II of this Convention. Provided that the said rules are in no way incompatible with the said provisions:
+    - **i)** The said rules need not reproduce any of the said provisions which are applicable to situations that do not arise in the territories of the Contracting Parties in question;
+    - **ii)** The said rules may include provisions not contained in the said Chapter II.
 
-1. (a)  Contracting Parties shall take appropriate measures to ensure that the rules of the road in force in their territories conform in substance to the provisions of Chapter II of this Convention. Provided that the said rules are in no way incompatible with the said provisions:
-   1) The said rules need not reproduce any of the said provisions which are applicable to situations that do not arise in the territories of the Contracting Parties in question;
-   2) The said rules may include provisions not contained in the said Chapter II.
+  - (b)  The provisions of this paragraph do not require Contracting Parties to provide penalties for any violation of those provisions of Chapter II which are reproduced in their rules of the road.
 
-(b)  The provisions of this paragraph do not require Contracting Parties to provide penalties for any violation of those provisions of Chapter II which are reproduced in their rules of the road.
+- **2.**
+  - (a)  Contracting Parties shall also take appropriate measures to ensure that the rules in force in their territories concerning the technical requirements to be satisfied by motor vehicles and trailers conform to the provisions of Annex 5 to this Convention; provided that they are in no way contrary to the safety principles governing the provisions of Annex 5, the said rules may contain provisions not contained in Annex 5. Contracting Parties shall also take appropriate measures to ensure that motor vehicles and trailers registered in their territories conform to the provisions of Annex 5 to this Convention when entering international traffic.
 
-1. (a)  Contracting Parties shall also take appropriate measures to ensure that the rules in force in their territories concerning the technical requirements to be satisfied by motor vehicles and trailers conform to the provisions of Annex 5 to this Convention; provided that they are in no way contrary to the safety principles governing the provisions of Annex 5, the said rules may contain provisions not contained in Annex 5. Contracting Parties shall also take appropriate measures to ensure that motor vehicles and trailers registered in their territories conform to the provisions of Annex 5 to this Convention when entering international traffic.
+  - (b)  The provisions of this paragraph do not impose any obligations on the Contracting Parties with respect to the rules in force in their territories concerning the technical requirements to be satisfied by power-driven vehicles which are not motor vehicles within the meaning of this Convention.
 
-(b)  The provisions of this paragraph do not impose any obligations on the Contracting Parties with respect to the rules in force in their territories concerning the technical requirements to be satisfied by power-driven vehicles which are not motor vehicles within the meaning of this Convention.
+- **3.** Subject to the exceptions provided for in Annex 1 to this Convention, Contracting Parties shall be bound to admit to their territories in international traffic motor vehicles and trailers which fulfil the conditions laid down in Chapter III of this Convention and whose drivers fulfil the conditions laid down in Chapter IV; they shall also be bound to recognize registration certificates issued in accordance with the provisions of Chapter III as *prima facie* evidence that the vehicles to which they refer fulfil the conditions laid down in the said Chapter III.
 
-1. <a name="article 4"></a>Subject to the exceptions provided for in Annex 1 to this Convention, Contracting Parties shall be bound to admit to their territories in international traffic motor vehicles and trailers which fulfil the conditions laid down in Chapter III of this Convention and whose drivers fulfil the conditions laid down in Chapter IV; they shall also be bound to recognize registration certificates issued in accordance with the provisions of Chapter III as *prima facie* evidence that the vehicles to which they refer fulfil the conditions laid down in the said Chapter III.
-1. Measures which the Contracting Parties have taken or may take, either unilaterally or under bilateral or multilateral agreements, to admit to their territories in international traffic motor vehicles and trailers that do not satisfy all the conditions stated in Chapter III of this Convention and to recognize, in cases other than those specified in Chapter IV, the validity in their territories of driving permits issued in the territory of another Contracting Party shall be deemed to be in conformity with the object of this Convention.
-1. Contracting Parties shall be bound to admit to their territories in international traffic cycles and mopeds which fulfil the technical conditions laid down in Chapter V of this Convention and whose drivers have their normal residence in the territory of another Contracting Party. No Contracting Party shall require the drivers of cycles or mopeds in international traffic to hold a driving permit; however, Contracting Parties which have declared in conformity with Article 54, paragraph 2, of this Convention that they treat mopeds as motorcycles may require the drivers of mopeds in international traffic to hold a driving permit.
+- **4.** Measures which the Contracting Parties have taken or may take, either unilaterally or under bilateral or multilateral agreements, to admit to their territories in international traffic motor vehicles and trailers that do not satisfy all the conditions stated in Chapter III of this Convention and to recognize, in cases other than those specified in Chapter IV, the validity in their territories of driving permits issued in the territory of another Contracting Party shall be deemed to be in conformity with the object of this Convention.
 
-5 bis. Contracting Parties will take the necessary measures to ensure that road safety education be provided on a systematic and continuous basis, particularly in schools at all levels.
+- **5.** Contracting Parties shall be bound to admit to their territories in international traffic cycles and mopeds which fulfil the technical conditions laid down in Chapter V of this Convention and whose drivers have their normal residence in the territory of another Contracting Party. No Contracting Party shall require the drivers of cycles or mopeds in international traffic to hold a driving permit; however, Contracting Parties which have declared in conformity with Article 54, paragraph 2, of this Convention that they treat mopeds as motorcycles may require the drivers of mopeds in international traffic to hold a driving permit.
 
-5 ter. Whenever driving instruction for learner drivers is provided by professional driving establishments, domestic legislation shall lay down minimum requirements concerning the curriculum and the qualifications of the personnel responsible for providing such instruction.
+- **5.** Contracting Parties will take the necessary measures to ensure that road safety education be provided on a systematic and continuous basis, particularly in schools at all levels.
 
-6  Contracting Parties undertake to communicate to any Contracting Party, which may so request, the information necessary to ascertain the identity of the person in whose name a power- driven vehicle, or a trailer coupled to such a vehicle, is registered in their territories if the request submitted shows that the vehicle has been involved in an accident or the driver of this vehicle has seriously infringed road traffic rules and is thereby liable to important penalties or disqualification from driving in the territory of the Contracting Party submitting the request.
+- **5.** Whenever driving instruction for learner drivers is provided by professional driving establishments, domestic legislation shall lay down minimum requirements concerning the curriculum and the qualifications of the personnel responsible for providing such instruction.
 
-7. Measures which the Contracting Parties have taken or may take either unilaterally or under bilateral or multilateral agreements to facilitate international road traffic by simplifying Customs, police, health and other similar formalities or to ensure that Customs offices and posts at a given frontier point have the same competence and are kept open during the same hours shall be deemed to be in conformity with the object of this Convention.
-7. Nothing in paragraphs 3, 5 and 7 of this Article shall affect the right of a Contracting Party to make the admission to its territory in international traffic of motor vehicles, trailers, mopeds and cycles, and of their drivers and occupants, subject to its regulations concerning the commercial carriage of passengers and goods, to its regulations concerning insurance of drivers against third- party risks, to its Customs regulations and, in general, to its regulations on matters other than road traffic.
+- **6.**  Contracting Parties undertake to communicate to any Contracting Party, which may so request, the information necessary to ascertain the identity of the person in whose name a power- driven vehicle, or a trailer coupled to such a vehicle, is registered in their territories if the request submitted shows that the vehicle has been involved in an accident or the driver of this vehicle has seriously infringed road traffic rules and is thereby liable to important penalties or disqualification from driving in the territory of the Contracting Party submitting the request.
 
-### ARTICLE 4
+- **7.** Measures which the Contracting Parties have taken or may take either unilaterally or under bilateral or multilateral agreements to facilitate international road traffic by simplifying Customs, police, health and other similar formalities or to ensure that Customs offices and posts at a given frontier point have the same competence and are kept open during the same hours shall be deemed to be in conformity with the object of this Convention.
+  
+- **8.**. Nothing in paragraphs 3, 5 and 7 of this Article shall affect the right of a Contracting Party to make the admission to its territory in international traffic of motor vehicles, trailers, mopeds and cycles, and of their drivers and occupants, subject to its regulations concerning the commercial carriage of passengers and goods, to its regulations concerning insurance of drivers against third- party risks, to its Customs regulations and, in general, to its regulations on matters other than road traffic.
 
-Signs and signals
+#### ARTICLE 4: Signs and signals
 
 Contracting Parties to this Convention which are not Contracting Parties to the Convention on Road Signs and Signals opened for signature at Vienna on the same day as this Convention undertake that:
 
-1) All road signs, traffic light signals and road markings installed in their territory shall form a coherent system and shall be designed and placed in such a way as to be easily recognizable;
+- **a)** All road signs, traffic light signals and road markings installed in their territory shall form a coherent system and shall be designed and placed in such a way as to be easily recognizable;
 
-1) The number of types of sign shall be limited and signs shall be placed only at points where they are deemed useful;
-1) Danger warning signs shall be installed at a sufficient distance from obstructions to give drivers adequate warning<a name="_bookmark0"></a>;
-1) It shall be prohibited:
+- **b)** The number of types of sign shall be limited and signs shall be placed only at points where they are deemed useful;
 
-1) To affix to a sign, to its support or to any other traffic control device anything not related to the purpose of such sign or device; if, however, Contracting Parties or subdivisions thereof authorize a non-profit making association to install informative signs, they may permit the emblem of that association to appear on the sign or on its support provided this does not make it less easy to understand the sign;
-1) To install any board, notice, marking or device which might be confused with signs or other traffic control devices, might render them less visible or effective, or might dazzle road-users or distract their attention in a way prejudicial to traffic safety;
-1) To install on pavements and verges devices or equipment which might unnecessarily obstruct the movement of pedestrians, particularly elderly or disabled persons.
+- **c)** Danger warning signs shall be installed at a sufficient distance from obstructions to give drivers adequate warning;
+
+- **d)** It shall be prohibited:
+  - **i)** To affix to a sign, to its support or to any other traffic control device anything not related to the purpose of such sign or device; if, however, Contracting Parties or subdivisions thereof authorize a non-profit making association to install informative signs, they may permit the emblem of that association to appear on the sign or on its support provided this does not make it less easy to understand the sign;
+  - **ii)** To install any board, notice, marking or device which might be confused with signs or other traffic control devices, might render them less visible or effective, or might dazzle road-users or distract their attention in a way prejudicial to traffic safety;
+  - **iii)** To install on pavements and verges devices or equipment which might unnecessarily obstruct the movement of pedestrians, particularly elderly or disabled persons.
 
 ## **Chapter II**
 
-### ARTICLE 5: RULES OF THE ROAD
+### RULES OF THE ROAD
 
-Status of signs and signals
+#### ARTICLE 5: Status of signs and signals
 
-1. Road-users shall comply with the instructions conveyed by road signs, traffic light signals and road markings even if the said instructions appear to contradict other traffic regulations.
-1. Instructions conveyed by traffic light signals shall take precedence over those conveyed by road signs regulating priority.
+- **1.** Road-users shall comply with the instructions conveyed by road signs, traffic light signals and road markings even if the said instructions appear to contradict other traffic regulations.
+- **2.** Instructions conveyed by traffic light signals shall take precedence over those conveyed by road signs regulating priority.
 
-### ARTICLE 6
+#### ARTICLE 6: Instructions given by authorized officials
 
-Instructions given by authorized officials
+- **1.** When they are directing traffic, authorized officials shall be easily identifiable at a distance, at night as well as by day.
+- **2.** Road-users shall promptly obey all instructions given by authorized officials directing traffic.
+- **3.** It is recommended: that domestic legislation should provide that directions given by authorized officials directing traffic shall include the following:
+  - **a)** Arm raised upright; this gesture shall mean “attention, stop” for all road-users except drivers who are no longer able to stop with sufficient safety; further, if made at an intersection, this gesture shall not require drivers already on the intersection to stop
+  - **b)** Arm or arms outstretched horizontally; this gesture shall constitute a stop signal for all road-users approaching from any direction which would cut across that indicated by the outstretched arm or arms; afmaking this gesture, the authorized official directing traffic may lower his arm or arms; this gesture shall likewise constitute a stop signal for drivers in front of or behind the official;
+  - **c)** Swinging red light; this gesture shall constitute a stop signal for road-users towards whom the light is directed.
+- **4.** The instructions given by authorized officials directing traffic shall take precedence over those conveyed by road signs, traffic light signals and road markings, and over traffic regulations.
 
-1. <a name="article 7"></a><a name="article 8"></a>When they are directing traffic, authorized officials shall be easily identifiable at a distance, at night as well as by day.
-1. Road-users shall promptly obey all instructions given by authorized officials directing traffic.
-1. It is recommended: that domestic legislation should provide that directions given by authorized officials directing traffic shall include the following:
-   1) Arm raised upright; this gesture shall mean “attention, stop” for all road-users except drivers who are no longer able to stop with sufficient safety; further, if made at an intersection, this gesture shall not require drivers already on the intersection to stop
+#### ARTICLE 7: General rules
 
-1) Arm or arms outstretched horizontally; this gesture shall constitute a stop signal for all road-users approaching from any direction which would cut across that indicated by the outstretched arm or arms; after making this gesture, the authorized official directing traffic may lower his arm or arms; this gesture shall likewise constitute a stop signal for drivers in front of or behind the official;
-1) Swinging red light; this gesture shall constitute a stop signal for road-users towards whom the light is directed.
-1. The instructions given by authorized officials directing traffic shall take precedence over those conveyed by road signs, traffic light signals and road markings, and over traffic regulations.
+- **1.** Road-users shall avoid any behaviour likely to endanger or obstruct traffic, to endanger persons, or to cause damage to public or private property.
 
-### ARTICLE 7
+- **2.** It is recommended that domestic legislation should provide that road-users shall not obstruct traffic or risk making it dangerous by throwing, depositing or leaving any object or substance on the road or by creating any other obstruction on the road. If road-users have been unable to avoid creating an obstruction or danger in that way, they shall take the necessary steps to remove it as soon as possible and, if they cannot remove it immediately, to warn other road-users of its presence.
 
-General rules
+- **3.** Drivers shall show extra care in relation to the most vulnerable road-users, such as pedestrians and cyclists and in particular children, elderly persons and the disabled.
 
-1. Road-users shall avoid any behaviour likely to endanger or obstruct traffic, to endanger persons, or to cause damage to public or private property.
+- **4.** Drivers shall take care that their vehicles do not inconvenience road-users or the occupants of properties bordering on the road, for example, by causing noise or raising dust or smoke where they can avoid doing so.
 
-1. It is recommended that domestic legislation should provide that road-users shall not obstruct traffic or risk making it dangerous by throwing, depositing or leaving any object or substance on the road or by creating any other obstruction on the road. If road-users have been unable to avoid creating an obstruction or danger in that way, they shall take the necessary steps to remove it as soon as possible and, if they cannot remove it immediately, to warn other road-users of its presence.
-1. Drivers shall show extra care in relation to the most vulnerable road-users, such as pedestrians and cyclists and in particular children, elderly persons and the disabled.
+- **5.** The wearing of safety belts is compulsory for drivers and passengers of motor vehicles, occupying seats equipped with such belts, save where exceptions are granted by domestic legislation.
 
-1. Drivers shall take care that their vehicles do not inconvenience road-users or the occupants of properties bordering on the road, for example, by causing noise or raising dust or smoke where they can avoid doing so.
+#### ARTICLE 8: Drivers
 
-1. The wearing of safety belts is compulsory for drivers and passengers of motor vehicles, occupying seats equipped with such belts, save where exceptions are granted by domestic legislation.
+- **1.** Every moving vehicle or combination of vehicles shall have a driver.
 
-### ARTICLE 8
+- **2.** It is recommended that domestic legislation should provide that pack, draught or saddle animals, and, except in such special areas as may be marked at the entry, cattle, singly or in herds, or flocks, shall have a driver.
 
-Drivers
+- **3.** Every driver shall possess the necessary physical and mental ability and be in a fit physical and mental condition to drive.
 
-1. Every moving vehicle or combination of vehicles shall have a driver.
+- **4.** Every driver of a power-driven vehicle shall possess the knowledge and skill necessary for driving the vehicle; however, this requirement shall not be a bar to driving practice by learner- drivers in conformity with domestic legislation.
 
-1. <a name="article 9"></a><a name="article 10"></a>It is recommended that domestic legislation should provide that pack, draught or saddle animals, and, except in such special areas as may be marked at the entry, cattle, singly or in herds, or flocks, shall have a driver.
+- **5.** Every driver shall at all times be able to control his vehicle or to guide his animals.
 
-1. Every driver shall possess the necessary physical and mental ability and be in a fit physical and mental condition to drive.
+- **5.**
+  Vehicle systems which influence the way vehicles are driven shall be deemed to be in conformity with paragraph 5 of this Article and with paragraph 1 of Article 13, when they are in conformity with the conditions of construction, fitting and utilization according to international legal instruments concerning wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles.
 
-1. Every driver of a power-driven vehicle shall possess the knowledge and skill necessary for driving the vehicle; however, this requirement shall not be a bar to driving practice by learner- drivers in conformity with domestic legislation.
+  Vehicle systems which influence the way vehicles are driven and are not in conformity with the aforementioned conditions of construction, fitting and utilization, shall be deemed to be in conformity with paragraph 5 of this Article and with paragraph 1 of Article 13, when such systems can be overridden or switched off by the driver.
 
-1. Every driver shall at all times be able to control his vehicle or to guide his animals.
+- **6.** A driver of a vehicle shall at all times minimize any activity other than driving. Domestic legislation should lay down rules on the use of phones by drivers of vehicles. In any case, legislation shall prohibit the use by a driver of a motor vehicle or moped of a hand-held phone while the vehicle is in motion.
 
-5. bis. Vehicle systems which influence the way vehicles are driven shall be deemed to be in conformity with paragraph 5 of this Article and with paragraph 1 of Article 13, when they are in conformity with the conditions of construction, fitting and utilization according to international legal instruments concerning wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles\*
-
-Vehicle systems which influence the way vehicles are driven and are not in conformity with the aforementioned conditions of construction, fitting and utilization, shall be deemed to be in conformity with paragraph 5 of this Article and with paragraph 1 of Article 13, when such systems can be overridden or switched off by the driver.
-
-5. A driver of a vehicle shall at all times minimize any activity other than driving. Domestic legislation should lay down rules on the use of phones by drivers of vehicles. In any case, legislation shall prohibit the use by a driver of a motor vehicle or moped of a hand-held phone while the vehicle is in motion.
-
-### ARTICLE 9
-
-Flocks and herds
+#### ARTICLE 9: Flocks and herds
 
 1. It is recommended that domestic legislation should provide that, save where exceptions are granted to facilitate their mass movement, flocks and herds should be divided into sections of moderate length spaced sufficiently far apart for the convenience of traffic.
 
-### ARTICLE 10
+#### ARTICLE 10: Position on the carriageway
 
-Position on the carriageway
+- **1.** The direction of traffic shall be the same on all roads in a State except, where appropriate, on the roads used solely or principally by through traffic between two other States.
 
-1. The direction of traffic shall be the same on all roads in a State except, where appropriate, on the roads used solely or principally by through traffic between two other States.
-1. Animals moving along the carriageway shall be kept as close as possible to the edge of the carriageway appropriate to the direction of traffic.
+- **2.** Animals moving along the carriageway shall be kept as close as possible to the edge of the carriageway appropriate to the direction of traffic.
 
+*The UN Regulations annexed to the "Agreement concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions" done at Geneva on 20 March 1958.*
 
-\*	The UN Regulations annexed to the "Agreement concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions" done at Geneva on 20 March 1958.
+*The UN Global Technical Regulations developed in the framework of the "Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles" done at Geneva on 25 June 1998.*
 
-<a name="article 11"></a>The UN Global Technical Regulations developed in the framework of the "Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles" done at Geneva on 25 June 1998.
+- **3.** Without prejudice to the provisions to the contrary of Article 7, paragraph 1, Article 11, paragraph 6, and to other provisions of this Convention to the contrary, every driver of a vehicle shall, to the extent permitted by circumstances, keep his vehicle near the edge of the carriageway appropriate to the direction of traffic. However, Contracting Parties or subdivisions thereof may lay down more precise rules concerning the position of goods vehicles on the carriageway.
 
+- **4.** Where a road comprises two or three carriageways, no driver shall take the carriageway situated on the side opposite to that appropriate to the direction of traffic.
 
-1. Without prejudice to the provisions to the contrary of Article 7, paragraph 1, Article 11, paragraph 6, and to other provisions of this Convention to the contrary, every driver of a vehicle shall, to the extent permitted by circumstances, keep his vehicle near the edge of the carriageway appropriate to the direction of traffic. However, Contracting Parties or subdivisions thereof may lay down more precise rules concerning the position of goods vehicles on the carriageway.
-1. Where a road comprises two or three carriageways, no driver shall take the carriageway situated on the side opposite to that appropriate to the direction of traffic.
-1. (a)  On two-way carriageways having four or more lanes, no driver shall take the lanes situated entirely on the half of the carriageway opposite to the side appropriate to the direction of traffic.
+- **5.**
+  - **(a)** On two-way carriageways having four or more lanes, no driver shall take the lanes situated entirely on the half of the carriageway opposite to the side appropriate to the direction of traffic.
 
-(b)	On two-way carriageways having three lanes, no driver shall take the lane situated at the edge of the carriageway opposite to that appropriate to the direction of traffic.
+  - **(b)** On two-way carriageways having three lanes, no driver shall take the lane situated at the edge of the carriageway opposite to that appropriate to the direction of traffic.
 
-1. Without prejudice to the provisions of Article 11 and when an additional lane is indicated by a sign, drivers of vehicles moving slowly shall use that lane.
+- **6.** Without prejudice to the provisions of Article 11 and when an additional lane is indicated by a sign, drivers of vehicles moving slowly shall use that lane.
 
-### ARTICLE 11
+#### ARTICLE 11: Overtaking and movement of traffic in lines
 
-Overtaking and movement of traffic in lines
+- **1.**
+  - **(a)** Drivers overtaking shall do so on the side opposite to that appropriate to the direction of traffic.
 
-1. (a)	Drivers overtaking shall do so on the side opposite to that appropriate to the direction of traffic.
+  - **(b)** However drivers shall overtake on the side appropriate to the direction of traffic if the driver to be overtaken has signalled his intention to turn to the side of the carriageway opposite to that appropriate to the direction of traffic and has moved his vehicle or animals over towards that side in order to turn to that side for the purpose of taking another road, to ena property bordering on the road, or to stop on that side.
 
-   2) However drivers shall overtake on the side appropriate to the direction of traffic if the driver to be overtaken has signalled his intention to turn to the side of the carriageway opposite to that appropriate to the direction of traffic and has moved his vehicle or animals over towards that side in order to turn to that side for the purpose of taking another road, to enter a property bordering on the road, or to stop on that side.
-   2) Domestic legislation may authorize cyclists and moped riders to pass stationary vehicles or vehicles moving at a low speed other than cycles or mopeds on the side which corresponds to the direction of traffic provided that sufficient space is available.
-1. Before overtaking, every driver shall, without prejudice to the provisions of Article 7, paragraph 1, or to those of Article 14, of this Convention, make sure:
-1) That no driver who is following him has begun to overtake him;
+  - **(c)** Domestic legislation may authorize cyclists and moped riders to pass stationary vehicles or vehicles moving at a low speed other than cycles or mopeds on the side which corresponds to the direction of traffic provided that sufficient space is available.
 
-1) That the driver ahead of him in the same lane has not given warning of his intention to overtake another;
-1) That he can do it without endangering or interfering with the oncoming traffic making sure in particular that the lane which he will enter is free over a sufficient distance and that the relative speed of the two vehicles allows overtaking within a sufficiently short time; and.
+- **2.** Before overtaking, every driver shall, without prejudice to the provisions of Article 7, paragraph 1, or to those of Article 14, of this Convention, make sure:
+  - **(a)** That no driver who is following him has begun to overtake him;
 
-1) That, except when using a lane closed to oncoming traffic, he will be able, without inconvenience to the road-user or road-users overtaken, to resume the position prescribed in Article 10, paragraph 3, of this Convention.
+  - **(b)** That the driver ahead of him in the same lane has not given warning of his intention to overtake another;
+  - **(c)** That he can do it without endangering or interfering with the oncoming traffic making sure in particular that the lane which he will enis free over a sufficient distance and that the relative speed of the two vehicles allows overtaking within a sufficiently short time; and.
 
-1. In pursuance of the provisions of paragraph 2 of this Article, overtaking on two-way carriageways is in particular prohibited when approaching the crest of a hill and, if visibility is inadequate, on bends, unless there are at these points lanes defined by longitudinal road markings and overtaking is carried out without leaving the lanes marked as closed to oncoming traffic.
+  - **(d)** That, except when using a lane closed to oncoming traffic, he will be able, without inconvenience to the road-user or road-users overtaken, to resume the position prescribed in Article 10, paragraph 3, of this Convention.
 
-1. When overtaking, a driver shall give the road-user or road-users overtaken a sufficiently wide berth.
+- **3.** In pursuance of the provisions of paragraph 2 of this Article, overtaking on two-way carriageways is in particular prohibited when approaching the crest of a hill and, if visibility is inadequate, on bends, unless there are at these points lanes defined by longitudinal road markings and overtaking is carried out without leaving the lanes marked as closed to oncoming traffic.
 
-1. (a)	On carriageways with at least two lanes reserved for traffic moving in the direction in which he is proceeding, a driver who should be obliged, immediately or shortly after moving back to the position prescribed by Article 10, paragraph 3, of this Convention, to overtake again may, in order to perform that manoeuvre, and provided he makes sure he can do so without undue inconvenience to the drivers of faster vehicles approaching from behind, remain in the lane he has occupied for the first overtaking manoeuvre.
+- **4.** When overtaking, a driver shall give the road-user or road-users overtaken a sufficiently wide berth.
 
-   2) However, Contracting Parties or subdivisions thereof shall be free not to apply the provisions of this paragraph to the drivers of cycles, mopeds, motorcycles and vehicles which are not motor vehicles within the meaning of this Convention, or to the drivers of motor vehicles whose permissible maximum mass exceeds 3,500 kg or whose maximum speed, by design, cannot exceed 40 km (25 miles) per hour.
-1. Where the provisions of subparagraph 5 (a) of this Article are applicable and the density of traffic is such that vehicles not only occupy the entire width of the carriageway reserved for traffic taking the direction in which they are moving but also are moving only at a speed which is governed by that of the vehicle preceding them in the line:
+- **5.**
+  - **(a)** On carriageways with at least two lanes reserved for traffic moving in the direction in which he is proceeding, a driver who should be obliged, immediately or shortly afmoving back to the position prescribed by Article 10, paragraph 3, of this Convention, to overtake again may, in order to perform that manoeuvre, and provided he makes sure he can do so without undue inconvenience to the drivers of fasvehicles approaching from behind, remain in the lane he has occupied for the first overtaking manoeuvre.
 
-1) Without prejudice to the provisions of paragraph 9 of this Article, the movement of the vehicles in one line at a higher speed than that of those in another shall not be deemed to constitute overtaking within the meaning of this Article;
+  - **(b)** However, Contracting Parties or subdivisions thereof shall be free not to apply the provisions of this paragraph to the drivers of cycles, mopeds, motorcycles and vehicles which are not motor vehicles within the meaning of this Convention, or to the drivers of motor vehicles whose permissible maximum mass exceeds 3,500 kg or whose maximum speed, by design, cannot exceed 40 km (25 miles) per hour.
 
-1) A driver not in the lane nearest to the edge of the carriageway appropriate to the direction of traffic may change lanes only in order to prepare to turn right or left or to park; however, this requirement shall not apply to changes of lane effected by drivers in accordance with domestic legislation resulting from the application of the provisions of paragraph 5 (b) of this Article.
+- **6.** Where the provisions of subparagraph 5 (a) of this Article are applicable and the density of traffic is such that vehicles not only occupy the entire width of the carriageway reserved for traffic taking the direction in which they are moving but also are moving only at a speed which is governed by that of the vehicle preceding them in the line:
 
-1. When moving in lines as described in paragraphs 5 and 6 of this Article, drivers are forbidden, if the lanes are indicated on the carriageway by longitudinal markings, to straddle these markings.
+- **(a)** Without prejudice to the provisions of paragraph 9 of this Article, the movement of the vehicles in one line at a higher speed than that of those in another shall not be deemed to constitute overtaking within the meaning of this Article;
 
-1. Without prejudice to the provisions of paragraph 2 of this Article and to other restrictions which Contracting Parties or subdivisions thereof may lay down concerning overtaking at intersections and at level-crossings, no driver of a vehicle shall overtake a vehicle other than a two-wheeled cycle, a two-wheeled moped or a two-wheeled motorcycle without side-car:
+- **(b)**  A driver not in the lane nearest to the edge of the carriageway appropriate to the direction of traffic may change lanes only in order to prepare to turn right or left or to park; however, this requirement shall not apply to changes of lane effected by drivers in accordance with domestic legislation resulting from the application of the provisions of paragraph 5 (b) of this Article.
 
-1) <a name="article 12"></a>Immediately before or on an intersection other than a roundabout, except:
+- **7.** When moving in lines as described in paragraphs 5 and 6 of this Article, drivers are forbidden, if the lanes are indicated on the carriageway by longitudinal markings, to straddle these markings.
 
-1) In the case provided for in paragraph 1 (b) of this Article;
+- **8.** Without prejudice to the provisions of paragraph 2 of this Article and to other restrictions which Contracting Parties or subdivisions thereof may lay down concerning overtaking at intersections and at level-crossings, no driver of a vehicle shall overtake a vehicle other than a two-wheeled cycle, a two-wheeled moped or a two-wheeled motorcycle without side-car:
 
-1) Where the road on which overtaking takes place has priority at the intersection;
+  - **(a)** Immediately before or on an intersection other than a roundabout, except:
 
-1) Where traffic is directed at the intersection by an authorized official or by traffic light signals;
+    - **(i)**  In the case provided for in paragraph 1 (b) of this Article;
 
-1) Immediately before or on a level-crossing not equipped with gates or half-gates, provided however that Contracting Parties or subdivisions thereof shall be free to permit such overtaking at a level-crossing where road traffic is regulated by traffic light signals incorporating a positive signal authorizing vehicles to proceed.
+    - **(ii)**  Where the road on which overtaking takes place has priority at the intersection;
 
-1. A vehicle shall not overtake another vehicle which is approaching a pedestrian crossing marked on the carriageway or signposted as such, or which is stopped immediately before the crossing, otherwise than at a speed low enough to enable it to stop immediately if a pedestrian is on the crossing. Nothing in this paragraph shall be construed as preventing Contracting Parties or subdivisions thereof from prohibiting overtaking within a prescribed distance from a pedestrian crossing, or from imposing stricter requirements on a driver of a vehicle proposing to overtake another vehicle stopped immediately before such a crossing.
-1. A driver who perceives that a driver following him wishes to overtake him shall, except in the case provided for in Article 16, paragraph 1 (b) of this Convention, keep close to the edge of the carriageway appropriate to the direction of traffic and refrain from accelerating. If, owing to the narrowness, profile or condition of the carriageway, taken in conjunction with the density of oncoming traffic, a vehicle which is slow or bulky or is required to observe a speed limit cannot be easily and safely overtaken, the driver of such vehicle shall slow down and if necessary pull in to the side as soon as possible in order to allow vehicles following him to overtake.
-1. (a)  Contracting Parties or subdivisions thereof may, on one-way carriageways and on two-way carriageways where at least two lanes in built-up areas and three lanes outside built-up areas are reserved for traffic in the same direction and are indicated by longitudinal markings:
-1) Allow vehicles in one lane to overtake on the side appropriate to the direction of traffic vehicles in another lane; and
-1) Make inapplicable the provisions of Article 10, paragraph 3, of this Convention; provided that there are adequate restrictions on the possibility of changing lanes;
+    - **(iii)**  Where traffic is directed at the intersection by an authorized official or by traffic light signals;
+
+  - **(b)**  Immediately before or on a level-crossing not equipped with gates or half-gates, provided however that Contracting Parties or subdivisions thereof shall be free to permit such overtaking at a level-crossing where road traffic is regulated by traffic light signals incorporating a positive signal authorizing vehicles to proceed.
+
+1.  A vehicle shall not overtake another vehicle which is approaching a pedestrian crossing marked on the carriageway or signposted as such, or which is stopped immediately before the crossing, otherwise than at a speed low enough to enable it to stop immediately if a pedestrian is on the crossing. Nothing in this paragraph shall be construed as preventing Contracting Parties or subdivisions thereof from prohibiting overtaking within a prescribed distance from a pedestrian crossing, or from imposing stricrequirements on a driver of a vehicle proposing to overtake another vehicle stopped immediately before such a crossing.
+2.  A driver who perceives that a driver following him wishes to overtake him shall, except in the case provided for in Article 16, paragraph 1 (b) of this Convention, keep close to the edge of the carriageway appropriate to the direction of traffic and refrain from accelerating. If, owing to the narrowness, profile or condition of the carriageway, taken in conjunction with the density of oncoming traffic, a vehicle which is slow or bulky or is required to observe a speed limit cannot be easily and safely overtaken, the driver of such vehicle shall slow down and if necessary pull in to the side as soon as possible in order to allow vehicles following him to overtake.
+3.  (a)  Contracting Parties or subdivisions thereof may, on one-way carriageways and on two-way carriageways where at least two lanes in built-up areas and three lanes outside built-up areas are reserved for traffic in the same direction and are indicated by longitudinal markings:
+4)  Allow vehicles in one lane to overtake on the side appropriate to the direction of traffic vehicles in another lane; and
+5)  Make inapplicable the provisions of Article 10, paragraph 3, of this Convention; provided that there are adequate restrictions on the possibility of changing lanes;
 
 (b)	In the case referred to in subparagraph (a) of this paragraph, without prejudice to the provisions of paragraph 9 of this Article, the manner of driving provided for shall not be deemed to constitute overtaking within the meaning of this Convention.
 
@@ -316,7 +325,7 @@ General requirements governing manoeuvres
 
 Special regulations relating to regular public-transport service vehicles
 
-It is recommended that domestic legislation should provide that in built-up areas, in order to facilitate the movement of regular public-transport service vehicles, the drivers of other vehicles shall, subject to the provisions of Article 17, paragraph 1, of this Convention, slow down and if necessary stop in order to allow the public-transport vehicles to perform the manoeuvre required for moving off from stops marked as such. The provisions thus laid down by Contracting Parties or subdivisions thereof shall in no way affect the duty incumbent on drivers of public- transport vehicles to take, after having given warning by means of their direction-indicators of their intention to move off, the precautions necessary to avoid any risk of accident.
+It is recommended that domestic legislation should provide that in built-up areas, in order to facilitate the movement of regular public-transport service vehicles, the drivers of other vehicles shall, subject to the provisions of Article 17, paragraph 1, of this Convention, slow down and if necessary stop in order to allow the public-transport vehicles to perform the manoeuvre required for moving off from stops marked as such. The provisions thus laid down by Contracting Parties or subdivisions thereof shall in no way affect the duty incumbent on drivers of public- transport vehicles to take, afhaving given warning by means of their direction-indicators of their intention to move off, the precautions necessary to avoid any risk of accident.
 
 ### ARTICLE 16
 
@@ -325,7 +334,7 @@ Change of direction
 1. Before turning right or left for the purpose of entering another road or entering a property bordering on the road, a driver shall, without prejudice to the provisions of Article 7, paragraph 1, and of Article 14, of this Convention: If he wishes to turn off on the side appropriate to the direction of traffic, keep as close as possible to the edge of the carriageway appropriate to that direction and make as tight a turn as possible;
    1) If he wishes to turn off on the other side, and subject to such other provisions as Contracting Parties or subdivisions thereof may enact for cycles and mopeds enabling them to change direction, for instance by crossing the intersection in two separate stages, move as closely as possible to the centreline of the carriageway if it is a two-way carriageway or to the edge opposite to the side appropriate to the direction of traffic if it is a one-way carriageway and, if he
 
-<a name="article 17"></a><a name="article 18"></a>wishes to enter another two-way road, make his turn so as to enter the carriageway of such other road on the side appropriate to the direction of traffic.
+<a name="article 17"></a><a name="article 18"></a>wishes to enanother two-way road, make his turn so as to enthe carriageway of such other road on the side appropriate to the direction of traffic.
 
 1. While changing direction, the driver shall, without prejudice to the provisions of Article 21 of this Convention regarding pedestrians, allow road users to pass on the carriageway, or on other parts of the same road he is preparing to leave.
 
@@ -349,7 +358,7 @@ Intersections and obligation to give way
 
 1) In States where traffic keeps to the right the driver of a vehicle shall give way, at intersections other than those specified in paragraph 2 of this Article and in Article 25, paragraphs 2 and 4 of this Convention, to vehicles approaching from his right;
 1) Contracting Parties or subdivisions thereof in whose territories traffic keeps to the left shall be free to regulate the right of way at intersections as they see fit.
-1. Even if traffic light signals authorize him to do so, a driver shall not enter an intersection if the density of traffic is such that he will probably be obliged to stop on the intersection, thereby obstructing or preventing the passage of cross traffic.
+1. Even if traffic light signals authorize him to do so, a driver shall not enan intersection if the density of traffic is such that he will probably be obliged to stop on the intersection, thereby obstructing or preventing the passage of cross traffic.
 1. A driver who has entered an intersection where traffic is regulated by traffic light signals may clear the intersection without waiting for the way to be opened in the direction in which he
 
 <a name="article 19"></a><a name="article 20"></a>wishes to proceed, provided that this does not impede the progress of other road-users moving in the open direction.
@@ -364,9 +373,9 @@ Road-users shall exercise extra care in approaching and traversing level-crossin
 
 1) Every driver of a vehicle shall drive at a moderate speed;
 
-1) Without prejudice to the obligation to obey an instruction to stop given by a light signal or a sound signal, no road-user shall enter a level-crossing at which the gates or half-gates are across the road or in process of being placed across the road, or at which the half-gates are in process of being raised;
-1) If a level-crossing is not equipped with gates, half-gates or light signals, no road- user shall enter it without making sure that no rail-borne vehicle is approaching;
-1) No driver shall enter a level-crossing without first ascertaining that he may not be obliged to stop on it;
+1) Without prejudice to the obligation to obey an instruction to stop given by a light signal or a sound signal, no road-user shall ena level-crossing at which the gates or half-gates are across the road or in process of being placed across the road, or at which the half-gates are in process of being raised;
+1) If a level-crossing is not equipped with gates, half-gates or light signals, no road- user shall enit without making sure that no rail-borne vehicle is approaching;
+1) No driver shall ena level-crossing without first ascertaining that he may not be obliged to stop on it;
 1) No road-user shall linger while traversing a level crossing; if a vehicle is compelled to stop, its driver shall endeavour to move it off the track, and, if he is unable to do so, immediately do everything he can to ensure that the drivers of rail-borne vehicles are warned of the danger in time.
 
 ### ARTICLE 20
@@ -383,13 +392,13 @@ Rules applicable to pedestrians
 1. <a name="article 21"></a>It is recommended that domestic legislation should provide as follows: pedestrians walking on the carriageway shall keep to the side opposite to that appropriate to the direction of traffic except where to do so places them in danger. However, persons pushing a cycle, a moped or a motorcycle, and groups of pedestrians led by a person in charge or forming a procession shall in all cases keep to the side of the carriageway appropriate to the direction of traffic. Unless they form a procession, pedestrians walking on the carriageway shall, by night or when visibility is poor and, by day, if the density of vehicular traffic so requires, walk in single file wherever possible.
 1. (a)  Pedestrians wishing to cross a carriageway shall not step on to it without exercising care; they shall use a pedestrian crossing whenever there is one nearby;
 2) In order to cross the carriageway at a pedestrian crossing signposted as such or indicated by markings on the carriageway:
-   1) If the crossing is equipped with light signals for pedestrians, the latter shall obey
+   1) If the crossing is equipped with light signals for pedestrians, the latshall obey
 
 1) If the crossing is not equipped with such lights, but vehicular traffic is regulated by traffic light signals or by an authorized official, pedestrians shall not step onto the carriageway while the traffic light signal or the signal given by the authorized official indicates that vehicles may proceed along it;
 1) At other pedestrian crossings, pedestrians shall not step on to the carriageway without taking the distance and speed of approaching vehicles into account.
 2) In order to cross the carriageway elsewhere than at a pedestrian crossing signposted as such or indicated by markings on the carriageway, pedestrians shall not step on to the carriageway without first making sure that they can do so without impeding vehicular traffic.
 2) Once they have started to cross a carriageway, pedestrians shall not take an unnecessarily long route, and shall not linger or stop on the carriageway unnecessarily.
-1. However, Contracting Parties or subdivisions thereof may impose stricter requirements on pedestrians crossing the carriageway.
+1. However, Contracting Parties or subdivisions thereof may impose stricrequirements on pedestrians crossing the carriageway.
 
 ### ARTICLE 21
 
@@ -461,7 +470,7 @@ Standing and parking
 1) On the central carriageway of three-carriageway roads and, outside built-up areas, on the carriageways of roads marked as priority roads by appropriate signs.
 1. A driver shall not leave his vehicle or his animals without having taken all suitable precautions to avoid any accident and, in the case of a motor vehicle, to prevent its unauthorized use.
 
-1. <a name="article 24"></a><a name="article 25"></a><a name="article 25 bis"></a>It is recommended that domestic legislation should provide as follows: every power-driven vehicle other than a two-wheeled moped or a two-wheeled motorcycle without side-car, and every trailer coupled or uncoupled shall when stationary on the carriageway outside a built-up area be signalled to approaching drivers at a sufficient distance by means of at least one appropriate device placed at the most suitable point to give them adequate advance warning:
+1. <a name="article 24"></a><a name="article 25"></a><a name="article 25 "></a>It is recommended that domestic legislation should provide as follows: every power-driven vehicle other than a two-wheeled moped or a two-wheeled motorcycle without side-car, and every trailer coupled or uncoupled shall when stationary on the carriageway outside a built-up area be signalled to approaching drivers at a sufficient distance by means of at least one appropriate device placed at the most suitable point to give them adequate advance warning:
 1) If the vehicle is stationary at night on the carriageway in circumstances such that approaching drivers cannot be aware of the obstacle which the vehicle constitutes;
 
 1) If the driver, in other cases, has been compelled to halt his vehicle at a place where standing is prohibited.
@@ -483,10 +492,10 @@ Motorways and similar roads
       1) To have their vehicles standing or parked elsewhere than at marked parking sites; if a vehicle is compelled to stop, its driver shall endeavour to move it off the carriageway and also off the flush verge and, if he is unable to do so, immediately signal the presence of the vehicle at a distance so as to warn approaching drivers in time;
       1) To make U-turns, to travel in reverse, and to drive on to the central dividing strip, including the crossovers linking the two carriageways.
 1. Drivers emerging on to a motorway shall give way to vehicles travelling on it. If there is an acceleration lane, they shall use it.
-1. A driver leaving a motorway shall move into the traffic lane appropriate to the motorway exit in good time and enter the deceleration lane, if there is one, as soon as he can.
+1. A driver leaving a motorway shall move into the traffic lane appropriate to the motorway exit in good time and enthe deceleration lane, if there is one, as soon as he can.
 1. For the purpose of the application of paragraphs 1, 2 and 3 of this Article, other roads reserved for motor vehicle traffic, duly signposted as such and not affording access to or from properties alongside, shall be treated as motorways.
 
-<a name="article 26"></a><a name="article 27"></a>ARTICLE 25 bis
+<a name="article 26"></a><a name="article 27"></a>ARTICLE 25 
 
 Special regulations for tunnels indicated by special road signs In tunnels indicated by the special road signs, the following rules shall apply:
 
@@ -549,17 +558,17 @@ Loading of vehicles
    1) Obstructing the driver’s view or impairing the stability or driving of the vehicle;
    1) Causing noise, raising dust, or creating any other nuisance which can be avoided;
 
-   1) <a name="article 30 bis"></a><a name="article 31"></a>Masking lights, including stop lights and direction-indicators, reflex reflectors, registration numbers and the distinguishing sign of the State of registration with which, under this Convention or under domestic legislation, the vehicle is required to be equipped, or masking signals given by arm in accordance with Article 14, paragraph 3, or Article 17, paragraph 2, of this Convention.
+   1) <a name="article 30 "></a><a name="article 31"></a>Masking lights, including stop lights and direction-indicators, reflex reflectors, registration numbers and the distinguishing sign of the State of registration with which, under this Convention or under domestic legislation, the vehicle is required to be equipped, or masking signals given by arm in accordance with Article 14, paragraph 3, or Article 17, paragraph 2, of this Convention.
 1. All accessories, such as cables, chains and sheets, used to secure or protect the load shall be drawn tight around the load and be firmly fastened. All accessories used to protect the load shall satisfy the requirements laid down for the load in paragraph 2 of this Article.
 1. Loads projecting beyond the front, rear or sides of the vehicle shall be clearly marked in all cases where their projection might not be noticed by the drivers of other vehicles; at night, a white light and a white reflecting device shall be used for such marking at the front and a red light and a red reflecting device at the rear. More particularly, on power-driven vehicles:
    1) Loads projecting more than 1 m beyond the front or rear of the vehicle shall always be marked;
 
-1) Loads projecting laterally beyond the outer edge of the vehicle in such a way that their lateral outer edge is more than 0.40 m from the outer edge of the vehicle’s front position (side) light shall be marked at the front at night, and loads projecting in such a way that their lateral outer edge is more than 0.40 m from the outer edge of the vehicle’s red rear position (side) light shall be similarly marked at the rear at night.
+1) Loads projecting laterally beyond the ouedge of the vehicle in such a way that their lateral ouedge is more than 0.40 m from the ouedge of the vehicle’s front position (side) light shall be marked at the front at night, and loads projecting in such a way that their lateral ouedge is more than 0.40 m from the ouedge of the vehicle’s red rear position (side) light shall be similarly marked at the rear at night.
 
 1. Nothing in paragraph 4 of this Article shall be construed as preventing Contracting Parties or subdivisions thereof from prohibiting, restricting, or subjecting to special authorization, load projections as referred to in the aforesaid paragraph 4.
 
 
-### ARTICLE 30 bis
+### ARTICLE 30 
 
 Carriage of passengers
 
@@ -649,7 +658,7 @@ Rules of lighting of other vehicles than mentioned in Article 32 and of certain 
 1. Every vehicle or combination of vehicles to which the provisions of Article 32 of this Convention do not apply shall, when on a road between nightfall and dawn, show at least one white or selective-yellow light to the front and at least one red light to the rear. Where there is only one lamp at the front or only one lamp at the rear, the lamp shall be placed on the centre-line of the vehicle or on the side opposite to that corresponding to the direction of traffic.
 
 1) Handcarts, i.e., carts drawn or pushed by hand, shall show at least one white or selective-yellow light to the front and at least one red light to the rear. These two lights may be emitted by a single lamp placed on the side opposite to that corresponding to the direction of traffic. Lights shall not be required on handcarts not exceeding 1 m in width.
-1) Animal-drawn vehicles shall show two white or selective-yellow lights to the front, and two red lights to the rear. Domestic legislation may, however, make it permissible for such vehicles to show only one white or selective-yellow light to the front and only one red light to the rear. The lamps shall in both cases be placed on the side opposite to that corresponding to the direction of traffic. If the lamps described above cannot be attached to the vehicle, they may be carried by an escort walking immediately alongside the vehicle, on the opposite side to that corresponding to the direction of traffic. Furthermore, animal-drawn vehicles shall be fitted with two red reflex-reflectors to the rear, as close as possible to the outer edges of the vehicle. Lights shall not be required on animal -drawn vehicles not exceeding 1 m in width. However, a single reflex-reflector shall in this case be placed at the rear on the side opposite to that corresponding to the direction of traffic, or centrally.
+1) Animal-drawn vehicles shall show two white or selective-yellow lights to the front, and two red lights to the rear. Domestic legislation may, however, make it permissible for such vehicles to show only one white or selective-yellow light to the front and only one red light to the rear. The lamps shall in both cases be placed on the side opposite to that corresponding to the direction of traffic. If the lamps described above cannot be attached to the vehicle, they may be carried by an escort walking immediately alongside the vehicle, on the opposite side to that corresponding to the direction of traffic. Furthermore, animal-drawn vehicles shall be fitted with two red reflex-reflectors to the rear, as close as possible to the ouedges of the vehicle. Lights shall not be required on animal -drawn vehicles not exceeding 1 m in width. However, a single reflex-reflector shall in this case be placed at the rear on the side opposite to that corresponding to the direction of traffic, or centrally.
 
 1. (a)   When moving along the carriageway by night:
 
@@ -665,7 +674,7 @@ Exemptions
 1. When warned of the approach of a priority vehicle by its special luminous and audible warning devices every road-user shall leave room clear for it to pass on the carriageway and shall, if necessary, stop.
 1. Domestic legislation may provide that drivers of priority vehicles shall not be bound, when warning of their movement is given by the vehicle’s special warning devices, and provided that they do not endanger other road-users, to comply with all or any of the provisions of this Chapter II other than those of Article 6, paragraph 2.
 
-1. <a name="chapter iii"></a><a name="article 35"></a>Domestic legislation may determine to what extent persons working on the construction, repair or maintenance of the road, including the drivers of equipment used for such work, shall not be bound, provided they take the necessary precautions, to observe the provisions of this Chapter II during their work.
+1. <a name="Chapter iii"></a><a name="article 35"></a>Domestic legislation may determine to what extent persons working on the construction, repair or maintenance of the road, including the drivers of equipment used for such work, shall not be bound, provided they take the necessary precautions, to observe the provisions of this Chapter II during their work.
 1. For the purpose of overtaking or passing the equipment referred to in paragraph 3 of this Article while it is engaged in work on the road, the drivers of other vehicles may, to the extent necessary and on conditions that they take all due precautions, disregard the requirements of Articles 11 and 12 of this Convention.
 
 ## **Chapter III**
@@ -696,9 +705,9 @@ The particulars entered in the certificate shall either be in Latin characters o
 2) In the case of motor vehicles of categories A and B as defined in Annexes 6 and 7 to this Convention and, if possible, for other motor vehicles:
 
    1) <a name="article 36"></a><a name="article 37"></a>The certificate shall be headed with the distinguishing sign of the State of registration as defined in Annex 3 to this Convention;
-   1) The letters A, B, C, D, E, F, G and H respectively shall be placed before or after the eight items of information which are required under subparagraph (a) of this paragraph, to be shown on all registration certificates;
+   1) The letters A, B, C, D, E, F, G and H respectively shall be placed before or afthe eight items of information which are required under subparagraph (a) of this paragraph, to be shown on all registration certificates;
 
-1) The words *Certificat d’immatriculation* in French may be placed either before or after the title of the certificate in the national language (or languages) of the country of registration.
+1) The words *Certificat d’immatriculation* in French may be placed either before or afthe title of the certificate in the national language (or languages) of the country of registration.
 
 2) For trailers, including semi-trailers, imported temporarily into a country by a mode of transport other than road transport, a photocopy of the registration certificate, certified as a true copy by the authority which issued the certificate, shall be considered sufficient.
 1. Notwithstanding the provisions of paragraph 1 of this Article, an articulated vehicle which is not disassembled while in international traffic shall be entitled to the benefits of the provisions of this Convention even if it has only a single registration and a single certificate for the drawing vehicle and semi-trailer composing it.
@@ -739,7 +748,7 @@ Every motor vehicle and every trailer in international traffic shall bear the id
 
 Technical requirements and inspection of vehicles
 
-1. `	`Every motor vehicle, every trailer and every combination of vehicles in international traffic shall satisfy the provisions of Annex 5 to this Convention. It shall also be in good working order. When these vehicles are fitted with systems, parts and equipment that are in conformity with the conditions of construction, fitting and utilization according to technical provisions of international legal instruments referred to in Article 8, paragraph 5bis of this Convention, they shall be deemed to be in conformity with Annex 5.
+1. `	`Every motor vehicle, every trailer and every combination of vehicles in international traffic shall satisfy the provisions of Annex 5 to this Convention. It shall also be in good working order. When these vehicles are fitted with systems, parts and equipment that are in conformity with the conditions of construction, fitting and utilization according to technical provisions of international legal instruments referred to in Article 8, paragraph 5 of this Convention, they shall be deemed to be in conformity with Annex 5.
 
 
 1. Domestic legislation shall require periodic technical inspections of:
@@ -756,7 +765,7 @@ Transitional provision
 
 1. For a period of 10 years from the entry into force of this Convention in accordance with Article 47, paragraph 1, trailers in international traffic, whatever their permissible maximum mass, shall be entitled to the benefits of the provisions of this Convention even if they are not registered.
 
-1. <a name="chapter iv"></a><a name="article 41"></a>The registration certificate shall conform with the provisions of the amendment to Article 35, paragraph 1 within five years from the date of its entry into force. Certificates issued during that period shall be mutually recognized until the expiry date inscribed therein.
+1. <a name="Chapter iv"></a><a name="article 41"></a>The registration certificate shall conform with the provisions of the amendment to Article 35, paragraph 1 within five years from the date of its entry into force. Certificates issued during that period shall be mutually recognized until the expiry date inscribed therein.
 
 ## **Chapter IV**
 
@@ -766,7 +775,7 @@ Driving permits
 
 1. (a)   Every driver of a motor vehicle must hold a driving permit;
 
-2) Contracting Parties undertake to ensure that driving permits are issued only after verification by the competent authorities that the driver possesses the required knowledge and skills; the persons authorized to check if drivers have the necessary knowledge and skills must have appropriate qualifications; the contents and procedure of both theoretical and practical exams are regulated by national legislation;
+2) Contracting Parties undertake to ensure that driving permits are issued only afverification by the competent authorities that the driver possesses the required knowledge and skills; the persons authorized to check if drivers have the necessary knowledge and skills must have appropriate qualifications; the contents and procedure of both theoretical and practical exams are regulated by national legislation;
 
 2) Domestic legislation must lay down requirements for obtaining a driving permit. In particular, it shall specify the minimum ages for holding a permit, the medical conditions to be fulfilled and the conditions for passing the theoretical and practical exams;
 
@@ -783,7 +792,7 @@ as valid for driving in their territories a vehicle coming within the categories
 
 2) The provisions of this paragraph shall not apply to learner-driver permits.
 
-1. Domestic legislation may limit the period of validity of a domestic driving permit. The period of validity of an international permit shall be either no more than three years after the date of issue or until the date of expiry of the domestic driving permit, whichever is earlier.
+1. Domestic legislation may limit the period of validity of a domestic driving permit. The period of validity of an international permit shall be either no more than three years afthe date of issue or until the date of expiry of the domestic driving permit, whichever is earlier.
 
 1. <a name="article 42"></a>Notwithstanding the provisions of paragraphs 1 and 2:
 
@@ -808,11 +817,11 @@ Suspension of the validity of driving permits
 1. Contracting Parties or subdivisions thereof may withdraw from a driver the right to use his domestic or international driving permit in their territories if he commits in their territories a breach of their regulations rendering him liable under their legislations to the forfeiture of his permit. In such a case the competent authority of the Contracting Party or subdivision thereof withdrawing the right to use the permit may:
    1) Withdraw and retain the permit until the period of the withdrawal of use expires or until the holder leaves its territory, whichever is the earlier;
    1) Notify the withdrawal of the right to use the permit to the authority by or on behalf of which the permit was issued;
-   1) In the case of an international permit, enter in the space provided for the purpose an endorsement to the effect that the permit is no longer valid in its territories;
+   1) In the case of an international permit, enin the space provided for the purpose an endorsement to the effect that the permit is no longer valid in its territories;
    1) Where it has not applied the procedure for which provision is made in subparagraph
 1) of this paragraph, supplement the communication referred to in subparagraph (b) by requesting
 
-<a name="article 43"></a><a name="chapter v"></a><a name="article 44"></a><a name="chapter vi"></a><a name="article 45"></a>the authority which issued the permit, or on behalf of which the permit was issued, to notify the person concerned of the decision taken with regard to him.
+<a name="article 43"></a><a name="Chapter v"></a><a name="article 44"></a><a name="Chapter vi"></a><a name="article 45"></a>the authority which issued the permit, or on behalf of which the permit was issued, to notify the person concerned of the decision taken with regard to him.
 
 1. Contracting Parties shall endeavour to notify the persons concerned of the decisions communicated to them in accordance with the procedure laid down in paragraph 1 (d) of this Article.
 
@@ -822,9 +831,9 @@ Suspension of the validity of driving permits
 
 Transitional provisions
 
-1. Contracting Parties shall issue domestic driving permits in accordance with the new provisions of Annex 6 at the latest five years after their entry into force. Domestic driving permits issued in accordance with the earlier provisions of Article 41, Article 43 and Annex 6 to this Convention prior to the expiry of this period shall be recognized as long as they are valid.
+1. Contracting Parties shall issue domestic driving permits in accordance with the new provisions of Annex 6 at the latest five years aftheir entry into force. Domestic driving permits issued in accordance with the earlier provisions of Article 41, Article 43 and Annex 6 to this Convention prior to the expiry of this period shall be recognized as long as they are valid.
 
-1. Contracting Parties shall issue international driving permits in accordance with the new provisions of Annex 7 at the latest five years after their entry into force. International driving permits issued in accordance with the earlier provisions of Article 41, Article 43 and Annex 7 to this Convention prior to the expiry of this period shall be valid according to the conditions defined in Article 41, paragraph 3.
+1. Contracting Parties shall issue international driving permits in accordance with the new provisions of Annex 7 at the latest five years aftheir entry into force. International driving permits issued in accordance with the earlier provisions of Article 41, Article 43 and Annex 7 to this Convention prior to the expiry of this period shall be valid according to the conditions defined in Article 41, paragraph 3.
 
 ## **Chapter V**
 
@@ -857,42 +866,42 @@ CONDITIONS FOR THE ADMISSION OF CYCLES AND MOPEDS TO INTERNATIONAL TRAFFIC
 
 ### ARTICLE 46
 
-1. Any State may, at the time of signing or ratifying this Convention, or of acceding thereto, or at any time thereafter, declare by notification addressed to the Secretary-General that the Convention shall become applicable to all or any of the territories for the international relations of which it is responsible. The Convention shall become applicable to the territory or territories named in the notification thirty days after the receipt of the notification by the Secretary-General or on the date of entry into force of the Convention for the State making the notification, whichever is the later.
-1. Any State which has made a declaration under paragraph 1 of this Article may at any time thereafter declare by notification addressed to the Secretary-General that the Convention shall cease to be applicable to the territory named in the notification and the Convention shall cease to be applicable to such territory one year from the date of receipt by the Secretary-General of the notification.
+1. Any State may, at the time of signing or ratifying this Convention, or of acceding thereto, or at any time thereafter, declare by notification addressed to the Secretary-General that the Convention shall become applicable to all or any of the territories for the international relations of which it is responsible. The Convention shall become applicable to the territory or territories named in the notification thirty days afthe receipt of the notification by the Secretary-General or on the date of entry into force of the Convention for the State making the notification, whichever is the later.
+1. Any State which has made a declaration under paragraph 1 of this Article may at any time thereafdeclare by notification addressed to the Secretary-General that the Convention shall cease to be applicable to the territory named in the notification and the Convention shall cease to be applicable to such territory one year from the date of receipt by the Secretary-General of the notification.
 1. A State making a notification under paragraph 1 of this Article shall notify the Secretary- General of the distinguishing sign or signs it has selected for display in international traffic on
 
 <a name="article 47"></a><a name="article 48"></a><a name="article 49"></a>vehicles registered in the territory or territories concerned, in accordance with Annex 3 to this Convention. By a further notification addressed to the Secretary-General, any State may change a distinguishing sign it has previously selected.
 
 ### ARTICLE 47
 
-1. This Convention shall enter into force twelve months after the date of deposit of the fifteenth instrument of ratification or accession.
-1. For each State ratifying or acceding to this Convention after the deposit of the fifteenth instrument of ratification or accession, the Convention shall enter into force twelve months after the date of deposit by such State of its instrument of ratification or accession.
+1. This Convention shall eninto force twelve months afthe date of deposit of the fifteenth instrument of ratification or accession.
+1. For each State ratifying or acceding to this Convention afthe deposit of the fifteenth instrument of ratification or accession, the Convention shall eninto force twelve months afthe date of deposit by such State of its instrument of ratification or accession.
 
 ARTICLE 48
 
-Upon its entry into force, this Convention shall terminate and replace, in relations between the Contracting Parties, the International Convention relative to Motor Traffic and the International Convention relative to Road Traffic, both signed at Paris on 24 April 1926, the Convention on the Regulation of Inter -American Automotive Traffic, opened for signature at Washington on 15 December 1943, and the Convention on Road Traffic, opened for signature at Geneva on 19 September 1949.
+Upon its entry into force, this Convention shall terminate and replace, in relations between the Contracting Parties, the International Convention relative to Motor Traffic and the International Convention relative to Road Traffic, both signed at Paris on 24 April 1926, the Convention on the Regulation of In-American Automotive Traffic, opened for signature at Washington on 15 December 1943, and the Convention on Road Traffic, opened for signature at Geneva on 19 September 1949.
 
 ### ARTICLE 49
 
-1. After this Convention has been in force for one year, any Contracting Party may propose one or more amendments to the Convention. The text of any proposed amendment, accompanied by an explanatory memorandum, shall be transmitted to the Secretary-General, who shall communicate it to all Contracting Parties. The Contracting Parties shall have the opportunity of informing him within a period of twelve months following the date of its circulation whether they
+1. Afthis Convention has been in force for one year, any Contracting Party may propose one or more amendments to the Convention. The text of any proposed amendment, accompanied by an explanatory memorandum, shall be transmitted to the Secretary-General, who shall communicate it to all Contracting Parties. The Contracting Parties shall have the opportunity of informing him within a period of twelve months following the date of its circulation whether they
 
 (a) accept the amendment; or (b) reject the amendment; or (c) wish that a conference be convened to consider the amendment. The Secretary-General shall also transmit the text of the proposed amendment to all other States referred to in Article 45, paragraph 1 of this Convention.
 
-1. (a)  Any proposed amendment communicated in accordance with the preceding paragraph shall be deemed to be accepted if within the period of twelve months referred to in the preceding paragraph less than one third of the Contracting Parties inform the Secretary-General that they either reject the amendment or wish that a conference be convened to consider it. The Secretary-General shall notify all Contracting Parties of each acceptance or rejection of any proposed amendment and of requests that a conference be convened. If the total number of such rejections and requests received during the specified period of twelve months is less than one third of the total number of Contracting Parties, the Secretary-General shall notify all Contracting Parties that the amendment will enter into force six months after the expiry of the period of twelve months referred to in the preceding paragraph for all Contracting Parties except those which, during the period specified, have rejected the amendment or requested the convening of a conference to consider it.
-1) Any Contracting Party which, during the said period of twelve months, has rejected a proposed amendment or requested the convening of a conference to consider it may at any time after the end of such period notify the Secretary-General that it accepts the amendment, and the Secretary-General shall communicate such notification to all the other Contracting Parties. The amendment shall enter into force, with respect to the Contracting Parties which have notified their acceptance, six months after receipt by the Secretary-General of their notification.
+1. (a)  Any proposed amendment communicated in accordance with the preceding paragraph shall be deemed to be accepted if within the period of twelve months referred to in the preceding paragraph less than one third of the Contracting Parties inform the Secretary-General that they either reject the amendment or wish that a conference be convened to consider it. The Secretary-General shall notify all Contracting Parties of each acceptance or rejection of any proposed amendment and of requests that a conference be convened. If the total number of such rejections and requests received during the specified period of twelve months is less than one third of the total number of Contracting Parties, the Secretary-General shall notify all Contracting Parties that the amendment will eninto force six months afthe expiry of the period of twelve months referred to in the preceding paragraph for all Contracting Parties except those which, during the period specified, have rejected the amendment or requested the convening of a conference to consider it.
+1) Any Contracting Party which, during the said period of twelve months, has rejected a proposed amendment or requested the convening of a conference to consider it may at any time afthe end of such period notify the Secretary-General that it accepts the amendment, and the Secretary-General shall communicate such notification to all the other Contracting Parties. The amendment shall eninto force, with respect to the Contracting Parties which have notified their acceptance, six months afreceipt by the Secretary-General of their notification.
 
 1. <a name="article 50"></a><a name="article 51"></a><a name="article 52"></a>If a proposed amendment has not been accepted in accordance with paragraph 2 of this Article and if within the period of twelve months specified in paragraph 1 of this Article less than half of the total number of the Contracting Parties inform the Secretary-General that they reject the proposed amendment and if at least one third of the total number of Contracting Parties, but not less than ten, inform him that they accept it or wish a conference to be convened to consider it, the Secretary-General shall convene a conference for the purpose of considering the proposed amendment or any other proposal which may be submitted to him in accordance with paragraph 4 of this Article.
 1. If a conference is convened in accordance with paragraph 3 of this Article, the Secretary- General shall invite to it all States referred to in Article 45, paragraph 1 of this Convention. He shall request all States invited to the conference to submit to him, at least six months before its opening date, any proposals which they may wish the conference to consider in addition to the proposed amendment and shall communicate such proposals, at least three months before the opening date of the conference, to all States invited to the conference.
-1. (a)  Any amendment to this Convention shall be deemed to be accepted if it has been adopted by a two thirds majority of the States represented at the conference, provided that such majority comprises at least two thirds of Contracting Parties represented at the conference. The Secretary-General shall notify all Contracting Parties of the adoption of the amendment, and the amendment shall enter into force twelve months after the date of his notification for all Contracting Parties except those which during that period have notified the Secretary-General that they reject the amendment.
+1. (a)  Any amendment to this Convention shall be deemed to be accepted if it has been adopted by a two thirds majority of the States represented at the conference, provided that such majority comprises at least two thirds of Contracting Parties represented at the conference. The Secretary-General shall notify all Contracting Parties of the adoption of the amendment, and the amendment shall eninto force twelve months afthe date of his notification for all Contracting Parties except those which during that period have notified the Secretary-General that they reject the amendment.
 
-(b)  A Contracting Party which has rejected an amendment during the said period of twelve months may at any time notify the Secretary-General that it accepts the amendment, and the Secretary-General shall communicate such notification to all the other Contracting Parties. The amendment shall enter into force, with respect to the Contracting Party which has notified its acceptance, six months after receipt by the Secretary-General of the notification or at the end of the said period of twelve months, whichever is later.
+(b)  A Contracting Party which has rejected an amendment during the said period of twelve months may at any time notify the Secretary-General that it accepts the amendment, and the Secretary-General shall communicate such notification to all the other Contracting Parties. The amendment shall eninto force, with respect to the Contracting Party which has notified its acceptance, six months afreceipt by the Secretary-General of the notification or at the end of the said period of twelve months, whichever is later.
 
 1. If the proposed amendment is not deemed to be accepted pursuant to paragraph 2 of this Article and if the conditions prescribed by paragraph 3 of this Article for convening a conference are not fulfilled, the proposed amendment shall be deemed to be rejected.
 
 
 ### ARTICLE 50
 
-Any Contracting Party may denounce this Convention by written notification addressed to the Secretary-General. The denunciation shall take effect one year after the date of receipt by the Secretary-General of such notification.
+Any Contracting Party may denounce this Convention by written notification addressed to the Secretary-General. The denunciation shall take effect one year afthe date of receipt by the Secretary-General of such notification.
 
 ### ARTICLE 51
 
@@ -904,7 +913,7 @@ Any dispute between two or more Contracting Parties which relates to the interpr
 
 <a name="article 53"></a><a name="article 54"></a><a name="article 55"></a>ARTICLE 53
 
-Nothing in this Convention shall be construed as preventing a Contracting Party from taking such action, compatible with the provisions of the Charter of the United Nations and limited to the exigencies of the situation, as it considers necessary to its external or internal security.
+Nothing in this Convention shall be construed as preventing a Contracting Party from taking such action, compatible with the provisions of the Charof the United Nations and limited to the exigencies of the situation, as it considers necessary to its external or internal security.
 
 ### ARTICLE 54
 
@@ -913,8 +922,8 @@ Nothing in this Convention shall be construed as preventing a Contracting Party 
 
 By notification addressed to the Secretary-General, any State may subsequently at any time withdraw its declaration.
 
-1. The declarations provided for in paragraph 2 of this Article shall become effective six months after the date of receipt by the Secretary-General of notification of them or on the date on which the Convention enters into force for the State making the declaration, whichever is the later.
-1. Any modification of a previously selected distinguishing sign notified in conformity with Article 45, paragraph 4, or Article 46, paragraph 3 of this Convention, shall take effect three months after the date on which the Secretary-General receives notification thereof.
+1. The declarations provided for in paragraph 2 of this Article shall become effective six months afthe date of receipt by the Secretary-General of notification of them or on the date on which the Convention enters into force for the State making the declaration, whichever is the later.
+1. Any modification of a previously selected distinguishing sign notified in conformity with Article 45, paragraph 4, or Article 46, paragraph 3 of this Convention, shall take effect three months afthe date on which the Secretary-General receives notification thereof.
 1. Reservations to this Convention and its annexes, other than the reservation provided for in paragraph 1 of this Article, shall be permitted on condition that they are formulated in writing and, if formulated before the deposit of the instrument of ratification or accession, are confirmed in that instrument. The Secretary-General shall communicate such reservations to all States referred to in Article 45, paragraph 1, of this Convention.
 
 1. Any Contracting Party which has formulated a reservation or made a declaration under paragraphs 1 or 4 of this Article may withdraw it at any time by notification addressed to the Secretary-General.
@@ -1055,15 +1064,15 @@ IDENTIFICATION MARKS OF MOTOR VEHICLES AND TRAILERS IN INTERNATIONAL TRAFFIC
 
 TECHNICAL CONDITIONS CONCERNING MOTOR VEHICLES AND TRAILERS
 
-1. Without prejudice to the provisions of Article 3, paragraph 2 (a) and Article 39, paragraph 1 of this Convention any Contracting Party may, with respect to motor vehicles which it registers and to trailers which it allows on the road under its domestic legislation, lay down rules which supplement, or are stricter than, the provisions of this Annex. All vehicles in international traffic must meet the technical requirements in force in their country of registration when they first entered into service.
+1. Without prejudice to the provisions of Article 3, paragraph 2 (a) and Article 39, paragraph 1 of this Convention any Contracting Party may, with respect to motor vehicles which it registers and to trailers which it allows on the road under its domestic legislation, lay down rules which supplement, or are stricthan, the provisions of this Annex. All vehicles in international traffic must meet the technical requirements in force in their country of registration when they first entered into service.
 1. For the purposes of this Annex, the term “trailer” applies only to a trailer designed to be coupled to a motor vehicle.
 1. Contracting Parties which, in conformity with Article 1, subparagraph (n), of this Convention, have declared that they wish to treat as motorcycles three-wheeled vehicles the unladen mass of which does not exceed 400 kg, shall make such vehicles subject to the rules laid down in this Annex either for motorcycles or for other motor vehicles.
 
-CHAPTER I
+Chapter I
 
 Braking
 
-1. For the purposes of this chapter:
+1. For the purposes of this Chapter:
    1) The term “wheels of one axle” means wheels which are arranged symmetrically, or largely symmetrically, in relation to the vehicle’s median longitudinal plane, even if they are not placed on the same axle (a tandem axle is counted as two axles);
    1) The term “service brake” means the device normally used to slow down and stop the vehicle;
    1) The term “parking brake” means the device used to hold the vehicle stationary in the driver’s absence, or, in the case of trailers, when the trailer is uncoupled;
@@ -1083,7 +1092,7 @@ Braking
    1) That so far as concerns the parking brake, it can be effected only by the action of the driver; and
    1) That so far as concerns the service or secondary (emergency) brake, braking remains possible with the efficiency prescribed in paragraph 5 of this Annex.
 
-10 bis. All vehicle equipment contributing to braking shall be so designed and constructed that the efficacy of the service brake is ensured after prolonged and repeated use.
+10 . All vehicle equipment contributing to braking shall be so designed and constructed that the efficacy of the service brake is ensured afprolonged and repeated use.
 
 10 ter. The service braking action shall be properly distributed and synchronized among the various axles of the vehicle.
 
@@ -1109,11 +1118,11 @@ Braking
 
 (b)  In addition to the provisions of subparagraph (a) of this paragraph, motorcycles having three wheels symmetrically arranged in relation to the vehicle’s median longitudinal plane shall be equipped with a parking brake that fulfils the conditions stated in paragraph 5 (b) of this Annex.
 
-CHAPTER II
+Chapter II
 
 Vehicle lighting and light-signalling devices
 
-1. For the purposes of this chapter, the term:
+1. For the purposes of this Chapter, the term:
 
 “Driving lamp” means the lamp used to illuminate the road over a long distance ahead of the vehicle;
 
@@ -1135,7 +1144,7 @@ Vehicle lighting and light-signalling devices
 
 “Parking lamp” means the lamp used to indicate the presence of a parked vehicle; it may replace the front and rear position lamps;
 
-“Marker lamp” means the lamp positioned near the outer edge of the overall width and as near as possible to the top of the vehicle for the purpose of clearly indicating the overall width. This signal complements the position lamps for some motor vehicles and trailers by drawing particular attention to their size;
+“Marker lamp” means the lamp positioned near the ouedge of the overall width and as near as possible to the top of the vehicle for the purpose of clearly indicating the overall width. This signal complements the position lamps for some motor vehicles and trailers by drawing particular attention to their size;
 
 “Hazard warning signal” means the signal given by the simultaneous functioning of all the direction-indicator lamps;
 
@@ -1151,9 +1160,9 @@ Vehicle lighting and light-signalling devices
 
 “Illuminating surface” means the orthogonal projection, in a transverse vertical plane, of the effective surface from which the light is emitted. For a reflex-reflector, the effective surface is the visible surface of the reflex-reflecting optical unit.
 
-1. The colours of lights mentioned in this chapter should, as far as possible, be in accordance with the definitions given in the appendix to this Annex.
+1. The colours of lights mentioned in this Chapter should, as far as possible, be in accordance with the definitions given in the appendix to this Annex.
 
-1. With the exception of motorcycles, every motor vehicle capable of exceeding 40 km (25 miles) per hour on level road shall be equipped in front with an even number of white or selective- yellow driving lamps capable of adequately illuminating the road at night in clear weather*.* The outer edges of the illuminating surfaces of the driving lamps shall in no case be closer to the extreme outer edge of the vehicle than the outer edges of the illuminating surfaces of the passing lamps.
+1. With the exception of motorcycles, every motor vehicle capable of exceeding 40 km (25 miles) per hour on level road shall be equipped in front with an even number of white or selective- yellow driving lamps capable of adequately illuminating the road at night in clear weather*.* The ouedges of the illuminating surfaces of the driving lamps shall in no case be closer to the extreme ouedge of the vehicle than the ouedges of the illuminating surfaces of the passing lamps.
 1. With the exception of motorcycles, every motor vehicle capable of exceeding 10 km (6 miles) per hour on level road shall be equipped in front with an even number of white or selective- yellow passing lamps capable of adequately illuminating the road at night in clear weather. A motor vehicle shall be equipped with a device such that no more than two passing lamps may be lit simultaneously. Passing lamps shall be so adjusted as to comply with the definition in paragraph of this Annex.
 1. Every motor vehicle other than a two-wheeled motorcycle without side-car shall be equipped in front with two white front position lamps; however, selective yellow shall be permitted for front position lamps incorporated in driving lamps or passing lamps which emit a selective-yellow beam. These front position lamps, when they are the only lamps switched on at the front of the vehicle, shall be visible at night in clear weather without causing undue dazzle or inconvenience to other road-users.
 1. (a)  Every motor vehicle other than a two-wheeled motorcycle without side-car shall be equipped at the rear with an even number of red rear position lamps visible at night in clear weather without causing undue dazzle or inconvenience to other road-users;
@@ -1174,7 +1183,7 @@ However, this provision shall not apply to driving lamps or passing lamps when t
 meet the requirements for visibility laid down in paragraph 27 above. However, trailers with an overall width not exceeding 0.80 m may be equipped with only one reflex-reflector if they are coupled to a two-wheeled motorcycle without side-car.
 
 1. Every trailer shall be equipped at the front with two white reflex-reflectors of other than triangular form. These reflex-reflectors shall meet the visibility requirements laid down in paragraph 27 above.
-1. A trailer shall be equipped at the front with two white front position lamps if its width exceeds 1.60 m. The front position lamps thus prescribed shall be fitted as near as possible to the extreme outer edge of the trailer.
+1. A trailer shall be equipped at the front with two white front position lamps if its width exceeds 1.60 m. The front position lamps thus prescribed shall be fitted as near as possible to the extreme ouedge of the trailer.
 
 1. With the exception of two-wheeled motorcycles with or without side-car, every motor vehicle capable of exceeding 25 km (15 miles) per hour on a level road shall be equipped at the rear with at least two red stop lamps, the luminous intensity of which is markedly higher than that of the rear position lamps. The same provision shall apply to every trailer which is the last vehicle in a combination of vehicles.
 1. Subject to the possibility that exemption from all or some of these obligations may be granted in respect of mopeds by Contracting Parties which, in conformity with Article 54, paragraph 2, of the Convention, have declared that they treat mopeds as motorcycles:
@@ -1201,7 +1210,7 @@ satisfying the conditions regarding colour and visibility laid down in paragraph
 
 1. No lamps, other than direction-indicator lamps and special warning lamps, shall emit a winking or flashing light. Side lamps may wink at the same time as direction-indicator lamps.
 
-42 bis. Special warning lamps shall emit a winking or flashing light. Colours of these lights should conform to the provisions of Article 32, paragraph 14.
+42 . Special warning lamps shall emit a winking or flashing light. Colours of these lights should conform to the provisions of Article 32, paragraph 14.
 
 42 ter. Every motor vehicle except motorcycles and every trailer shall be so equipped that they can emit a hazard warning signal.
 
@@ -1221,7 +1230,7 @@ satisfying the conditions regarding colour and visibility laid down in paragraph
 1. Lamps on a given vehicle having the same function and facing in the same direction, shall be of the same colour. Lamps and reflex-reflectors which are of even number shall be placed symmetrically in relation to the vehicle’s median longitudinal plane, except on vehicles with an asymmetrical external shape. The intensity of the lamps in each pair shall be substantially the same.
 1. Lamps of different kinds, and, subject to the provisions of other paragraphs of this Chapter, lamps and reflex-reflectors, may be grouped or incorporated in the same device, provided that each of these lamps and reflectors complies with the applicable provisions of this Annex.
 
-CHAPTER III
+Chapter III
 
 Other requirements
 
@@ -1290,7 +1299,7 @@ General provisions
 2) Motor vehicles and trailers shall, as far as possible, be so constructed and equipped as to reduce the danger to their occupants and to other road-users in case of accident. In particular, they shall have no ornaments or other objects, inside or outside, with unnecessary projections or ridges which may be dangerous to the occupants or other road-users.
 2) Vehicles of which the maximum permitted mass exceeds 3.5 t shall be equipped, as far as possible, with side and rear-under run devices.
 
-CHAPTER IV
+Chapter IV
 
 Exemptions
 
@@ -1300,7 +1309,7 @@ Exemptions
    1) Vehicles used for experiments whose purpose is to keep up with technical progress and improve road safety;
    1) Vehicles of a special form or type, or which are used for particular purposes under special conditions;
    1) Vehicles adapted for use by handicapped persons.
-1. Contracting Parties may also grant exemptions from the provisions of this Annex in respect of vehicles which they register and which may enter international traffic:
+1. Contracting Parties may also grant exemptions from the provisions of this Annex in respect of vehicles which they regisand which may eninternational traffic:
 
 1) By authorizing the use of the colour amber for the front position lamps of motor vehicles and trailers;
 1) As regards the position of lamps on special-purpose vehicles whose external shape is such that the said provisions could not be observed without the use of mounting devices which could easily be damaged or torn off;
@@ -1325,13 +1334,13 @@ Exemptions
 
 1) By authorizing the use of the colour red for rearmost lateral reflex-reflectors and side lamps.
 
-CHAPTER V
+Chapter V
 
 Transitional provisions
 
 61\. Motor vehicles first registered and trailers put into service in the territories of a Contracting Party before the entry into force of this Convention or within the two years following such entry into force shall not be subject to the provisions of this Annex, provided that they satisfy the requirements of parts I, II and III of Annex 6 of the 1949 Convention on Road Traffic.
 
-62 bis. Motor vehicles first registered and trailers put into service in the territory of a Contracting Party before the entry into force of the amendments to this Convention or within the two years following such entry into force should not be subject to the provisions of this Annex, provided that they satisfy the provisions of Annex 5 of the 1968 Convention on Road Traffic in the wording prior to these amendments or other provisions referred to in Chapter V of the said Annex.
+62 . Motor vehicles first registered and trailers put into service in the territory of a Contracting Party before the entry into force of the amendments to this Convention or within the two years following such entry into force should not be subject to the provisions of this Annex, provided that they satisfy the provisions of Annex 5 of the 1968 Convention on Road Traffic in the wording prior to these amendments or other provisions referred to in Chapter V of the said Annex.
 
 # <a name="annex 6"></a>**Appendix**
 DEFINITION OF COLOUR FILTERS FOR OBTAINING THE COLOURS REFERRED TO IN THIS ANNEX (TRICHROMATIC COORDINATES)
@@ -1491,7 +1500,7 @@ MODEL PAGE No. 1
 
 1. Name of the issuing State and its distinguishing sign as defined in Annex 3.
 
-2	Either no more than three years after the date of issue or the date of expiry of the domestic driving
+2	Either no more than three years afthe date of issue or the date of expiry of the domestic driving
 
 permit, whichever is earlier.
 
@@ -1504,7 +1513,7 @@ MODEL PAGE No. 2
 
 
 
-1. Enter here the name of the Contracting Party in which the holder is normally resident.
+1. Enhere the name of the Contracting Party in which the holder is normally resident.
 
 1. Space reserved for a list of the States which are Contracting Parties (optional).
 
