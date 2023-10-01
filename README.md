@@ -2,6 +2,8 @@
 
 This repository contains a collection of laws and regulations for the micronation of Samland.
 
+The legislation may be viewed at <https://samlandlii.minersonline.uk/>
+
 ## Contributing
 
 You can contribute legislation to this repository by opening an issue or pull request.
