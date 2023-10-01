@@ -1,11 +1,8 @@
 # Welcome to the Samland Laws Repository
 
-This repository contains a collection of laws and regulations for the fictional country of Samland. Please note that Samland is entirely fictional and does not represent any real-world nation or legal system. The laws and documents provided here are created for illustrative and informational purposes only.
+This repository contains a collection of laws and regulations for the micronation of Samland.
 
-Repository Structure:
+## Contributing
 
-1. Constitution:
-   - File: [constitution/README.md](./constitution/README.md)
-   - Description: The constitution of Samland serves as the supreme law of the land, defining the fundamental principles, structure of government, and the rights and responsibilities of its citizens. It establishes the democratic framework upon which the nation operates.
-
-Please note that the laws and regulations provided within this repository are fictional and do not hold any legal validity in the real world. They are designed for illustrative purposes and are specifically intended for the Miners Online Minecraft server. These laws establish guidelines and rules within the fictional world of the server to enhance the gameplay experience and create a structured environment.
+You can contribute legislation to this repository by opening an issue or pull request.
+When making legislation the document must be compatible with [BlueBell](https://github.com/laws-africa/bluebell).
