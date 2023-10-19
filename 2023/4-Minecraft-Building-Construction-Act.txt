@@ -5,9 +5,9 @@ BODY
 
 	SECTION 1. - Definitions
 		1. For the purposes of this act:
-	    a. A "Building" shall be defined as any structure within the Micronation of Samland constructed for habitation, commerce, or other purposes.
-	    b. A "Floor" refers to a horizontal surface within a building that separates two distinct spaces.
-	    c. A "Ceiling" is the uppermost horizontal surface within a building that separates the interior from the space above.
+	  SUBSECTION (a) A "Building" shall be defined as any structure within the Micronation of Samland constructed for habitation, commerce, or other purposes.
+	  SUBSECTION (b) A "Floor" refers to a horizontal surface within a building that separates two distinct spaces.
+	  SUBSECTION (c) A "Ceiling" is the uppermost horizontal surface within a building that separates the interior from the space above.
 
 	SECTION 2. - Construction Standards for Redstone and Wires
 		1. In the interest of facilitating the use of redstone or other wires for innovative purposes within buildings, it shall be a mandatory requirement that a gap of at least two blocks must be maintained between the Ceiling of one floor and the Floor of the next.
