@@ -1,3 +1,12 @@
+---
+title: Proclamation of governance transition in the Micronation of Samland
+type: proclamation
+jurisdiction: Samland
+date: 2023-10-1
+number: 1
+---
+
+
 PREAMBLE
     In the interest of safeguarding the rights and well-being of the citizens of the Micronation of Samland during the exceptional circumstances of its unique governance structure, I, as the sole President of Samland, do hereby issue this Official Proclamation to address the governance requirements during this transitional period.
 

@@ -1,3 +1,11 @@
+---
+title: Minecraft Building Construction Act
+type: act
+jurisdiction: Samland
+date: 2023-10-19
+number: 4
+---
+
 PREAMBLE
 	In the interest of fostering innovation and enabling the efficient construction of buildings within the Micronation of Samland, the Minecraft Building Construction Act is hereby established to regulate the placement of redstone and other wires within structures.*
 

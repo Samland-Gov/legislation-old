@@ -1,3 +1,11 @@
+---
+title: Emergencies Act
+type: act
+jurisdiction: Samland
+date: 2023-10-2
+number: 3
+---
+
 PREAMBLE
     In the interest of safeguarding the rights and well-being of the citizens of the Micronation of Samland during times of crisis or emergency, this Emergencies Act is hereby establishing the framework for emergencies.
 

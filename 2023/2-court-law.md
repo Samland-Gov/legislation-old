@@ -1,3 +1,11 @@
+---
+title: Court Law
+type: act
+jurisdiction: Samland
+date: 2023-10-19
+number: 2
+---
+
 PREFACE
 
     The following document serves as the Court Law of the Samland micronation, establishing the framework for its legal system.

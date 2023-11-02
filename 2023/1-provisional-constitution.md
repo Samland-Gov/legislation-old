@@ -1,3 +1,11 @@
+---
+title: Provisional Constitution
+type: act
+jurisdiction: Samland
+date: 2023-10-1
+number: 1
+---
+
 PREFACE
 
 The Micronation of Samland, in its pursuit of self-determination and governance, hereby establishes this Provisional Constitution as the foundational legal framework to guide its initial steps.
