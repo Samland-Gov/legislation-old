@@ -37,15 +37,15 @@
 3. **Sections and Articles**: Structure the document into sections, articles, and sub-subsections as necessary. Use numbered headings for clear hierarchy.
 
     ```markdown
-    ### Section 1: Title
+    ## Section 1: Title
 
-    #### Article 1.1: Subtitle
+    ### Article 1.1: Subtitle
 
-    ##### § 1.1.1: Sub-subtitle
+    #### § 1.1.1: Sub-subtitle
 
-    ##### § 1.1.2: Sub-subtitle 2
+    #### § 1.1.2: Sub-subtitle 2
 
-    #### Article 1.2: Subtitle 2
+    ### Article 1.2: Subtitle 2
     ```
 
 4. **Text Formatting**: Use Markdown for text formatting (e.g., bold, italics) to emphasize key points or definitions.
