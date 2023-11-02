@@ -12,6 +12,7 @@
     type: act
     jurisdiction: Jurisdiction Name
     date: YYYY-MM-DD
+    date-assented: YYYY-MM-DD
     number: 1
     ---
     ```
@@ -28,7 +29,7 @@
 2. **Preamble**: Start with a preamble section, providing context, purpose, and any relevant background information.
 
     ```markdown
-    # Preamble
+    ## Preamble
 
     This legislation is enacted to [provide context or state the purpose].
     ```
@@ -36,21 +37,21 @@
 3. **Sections and Articles**: Structure the document into sections, articles, and sub-subsections as necessary. Use numbered headings for clear hierarchy.
 
     ```markdown
-    ## Section 1: Title
+    ### Section 1: Title
 
-    ### Article 1.1: Subtitle
+    #### Article 1.1: Subtitle
 
-    #### § 1.1.1: Sub-subtitle
+    ##### § 1.1.1: Sub-subtitle
 
-    #### § 1.1.2: Sub-subtitle 2
+    ##### § 1.1.2: Sub-subtitle 2
 
-    ### Article 1.2: Subtitle 2
+    #### Article 1.2: Subtitle 2
     ```
 
 4. **Text Formatting**: Use Markdown for text formatting (e.g., bold, italics) to emphasize key points or definitions.
 
-    - **Bold**: `**Bold text**`
-    - *Italics*: `*Italic text*`
+    * **Bold**: `**Bold text**`
+    * *Italics*: `*Italic text*`
 
 ## Legislative Elements
 
@@ -96,8 +97,8 @@
 
 ## Additional Resources
 
-- Consult your local legislative authority for jurisdiction-specific requirements.
-- Seek legal expertise for complex legislative matters.
-- Use Markdown rendering tools to produce professionally formatted documents.
+* Consult your local legislative authority for jurisdiction-specific requirements.
+* Seek legal expertise for complex legislative matters.
+* Use Markdown rendering tools to produce professionally formatted documents.
 
 Remember that legislative drafting is a complex and precise task. This style guide provides a basic framework for using Markdown, but it's important to follow the specific legislative requirements of your jurisdiction and consult legal experts to ensure compliance. You may see existing legislation for guidance.
