@@ -2,7 +2,7 @@
 title: Zoning Code of Samland
 type: act
 jurisdiction: Samland
-date: 2023-11-02
+date-published: 2023-11-02
 date-assented: YYYY-MM-DD
 number: 5
 ---

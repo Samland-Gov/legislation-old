@@ -2,7 +2,7 @@
 title: Proclamation of governance transition in the Micronation of Samland
 type: proclamation
 jurisdiction: Samland
-date: 2023-10-1
+date-published: 2023-10-1
 date-assented: 2023-10-1
 number: 1
 ---

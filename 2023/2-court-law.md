@@ -2,7 +2,7 @@
 title: Court Law
 type: act
 jurisdiction: Samland
-date: 2023-10-19
+date-published: 2023-10-19
 date-assented: 2023-10-19
 number: 2
 ---

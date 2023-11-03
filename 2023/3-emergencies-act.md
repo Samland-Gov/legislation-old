@@ -2,7 +2,7 @@
 title: Emergencies Act
 type: act
 jurisdiction: Samland
-date: 2023-10-2
+date-published: 2023-10-2
 date-assented: 2023-10-2
 number: 3
 ---

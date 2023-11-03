@@ -11,7 +11,7 @@
     title: Title of the Legislation
     type: act
     jurisdiction: Jurisdiction Name
-    date: YYYY-MM-DD
+    date-published: YYYY-MM-DD
     date-assented: YYYY-MM-DD
     number: 1
     ---
@@ -22,9 +22,13 @@
     ```markdown
     ---
     repelled-by: ../path/to/file.md
+    date-repelled: YYYY-MM-DD
     amended-by: ../path/to/file2.md
+    date-amended: YYYY-MM-DD
     ---
     ```
+
+    Using our renderer, the document will be rendered with this metadata displayed providing extra information to the reader! Repelled or amended documents will display a link to the new versions based on the optional metadata.
 
 2. **Preamble**: Start with a preamble section, providing context, purpose, and any relevant background information.
 
@@ -37,15 +41,15 @@
 3. **Sections and Articles**: Structure the document into sections, articles, and sub-subsections as necessary. Use numbered headings for clear hierarchy.
 
     ```markdown
-    ## Section 1: Title
+    ## Section 2: Title
 
-    ### Article 1.1: Subtitle
+    ### Article 2.1: Subtitle
 
-    #### § 1.1.1: Sub-subtitle
+    #### § 2.1.1: Sub-subtitle
 
-    #### § 1.1.2: Sub-subtitle 2
+    #### § 2.1.2: Sub-subtitle 2
 
-    ### Article 1.2: Subtitle 2
+    ### Article 2.2: Subtitle 2
     ```
 
 4. **Text Formatting**: Use Markdown for text formatting (e.g., bold, italics) to emphasize key points or definitions.
@@ -55,10 +59,10 @@
 
 ## Legislative Elements
 
-1. **Definitions**: Define key terms in a dedicated section, typically at the beginning of the document.
+1. **Definitions**: Define key terms in a dedicated section, typically at the beginning of the document. This should be the first section.
 
     ```markdown
-    ## Section 2: Definitions
+    ## Section 1: Definitions
 
     - **Term A**: [Definition of Term A]
     - **Term B**: [Definition of Term B]
@@ -85,11 +89,20 @@
     - See also [Related Legislation].
     ```
 
-5. **Amendments**: Create a new document to mark any amendments to existing legislation. Use the contents of the existing legislation but add your amendments where necessary.
+5. **Amendments**: Create a new document to mark any amendments to existing legislation. Use the contents of the existing legislation but add your amendments where necessary. Add some optional metadata to the first document:
+
+    ```markdown
+    ---
+    amended-by: ../path/to/new/file.md
+    date-amended: YYYY-MM-DD
+    ---
+    ```
+
+Modify `../path/to/new/file.md` to the location of the new document based on relative paths.
 
 ## Formatting Guidelines
 
-1. **Language**: Use clear and concise English language. Avoid ambiguity and legalese when possible.
+1. **Language**: Use clear and concise British like English language. Avoid ambiguity and legalese when possible.
 
 2. **Consistency**: Maintain a consistent style for headings, lists, and citations throughout the document.
 
