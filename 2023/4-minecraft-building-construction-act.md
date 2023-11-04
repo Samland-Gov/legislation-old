@@ -1,9 +1,9 @@
 ---
-title: Minecraft Building Construction Act
-type: act
-jurisdiction: Samland
-date_published: 2023-10-19
-date_assented: 2023-10-19
+title: 'Minecraft Building Construction Act'
+type: 'act'
+jurisdiction: 'Samland'
+date_published: '2023-10-19'
+date_assented: '2023-10-19'
 number: 4
 ---
 
