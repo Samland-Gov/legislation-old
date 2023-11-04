@@ -11,8 +11,7 @@
     title: Title of the Legislation
     type: act
     jurisdiction: Jurisdiction Name
-    date-published: YYYY-MM-DD
-    date-assented: YYYY-MM-DD
+    date_published: YYYY-MM-DD
     number: 1
     ---
     ```
@@ -21,10 +20,11 @@
 
     ```markdown
     ---
-    repelled-by: ../path/to/file.md
-    date-repelled: YYYY-MM-DD
-    amended-by: ../path/to/file2.md
-    date-amended: YYYY-MM-DD
+    date_assented: YYYY-MM-DD
+    repelled_by: ../path/to/file.md
+    date_repelled: YYYY-MM-DD
+    amended_by: ../path/to/file2.md
+    date_amended: YYYY-MM-DD
     ---
     ```
 
@@ -93,8 +93,8 @@
 
     ```markdown
     ---
-    amended-by: ../path/to/new/file.md
-    date-amended: YYYY-MM-DD
+    amended_by: ../path/to/new/file.md
+    date_amended: YYYY-MM-DD
     ---
     ```
 

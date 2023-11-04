@@ -2,8 +2,8 @@
 title: Provisional Constitution
 type: act
 jurisdiction: Samland
-date-published: 2023-10-1
-date-assented: 2023-10-1
+date_published: 2023-10-1
+date_assented: 2023-10-1
 number: 1
 ---
 
