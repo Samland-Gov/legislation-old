@@ -1,7 +1,7 @@
 ---
 title: 'Provisional Constitution'
 type: 'act'
-jurisdiction: 'Samland'
+jurisdiction: 'samland'
 date_published: '2023-10-1'
 date_assented: '2023-10-1'
 number: 1

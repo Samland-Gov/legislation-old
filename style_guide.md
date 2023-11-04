@@ -8,10 +8,10 @@
 
     ```markdown
     ---
-    title: Title of the Legislation
-    type: act
-    jurisdiction: Jurisdiction Name
-    date_published: YYYY-MM-DD
+    title: 'Title of the Legislation'
+    type: 'act'
+    jurisdiction: 'Jurisdiction Name'
+    date_published: 'YYYY-MM-DD'
     number: 1
     ---
     ```
@@ -20,11 +20,11 @@
 
     ```markdown
     ---
-    date_assented: YYYY-MM-DD
-    repelled_by: ../path/to/file.md
-    date_repelled: YYYY-MM-DD
-    amended_by: ../path/to/file2.md
-    date_amended: YYYY-MM-DD
+    date_assented: 'YYYY-MM-DD'
+    repelled_by: 'absolute/path/to/file'
+    date_repelled: 'YYYY-MM-DD'
+    amended_by: 'absolute/path/to/file2'
+    date_amended: 'YYYY-MM-DD'
     ---
     ```
 
@@ -93,12 +93,12 @@
 
     ```markdown
     ---
-    amended_by: ../path/to/new/file.md
+    amended_by: absolute/path/to/new/file
     date_amended: YYYY-MM-DD
     ---
     ```
 
-Modify `../path/to/new/file.md` to the location of the new document based on relative paths.
+Modify `absolute/path/to/new/file` to the absolute location (based of the repository root) of the new document based on relative paths. Remember do not include file extensions!
 
 ## Formatting Guidelines
 

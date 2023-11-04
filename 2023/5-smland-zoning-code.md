@@ -1,7 +1,7 @@
 ---
 title: 'Zoning Code of Samland'
 type: 'act'
-jurisdiction: 'Samland'
+jurisdiction: 'samland'
 date_published: '2023-11-02'
 number: 5
 ---
