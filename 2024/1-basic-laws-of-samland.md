@@ -167,7 +167,7 @@ number: 1
 
 ### Article 5.2: Continuity of Orders
 
-§45. All Orders of continuous application shall remain binding after the General Election, provided they do not contravene the permanent constitution or are altered by an Act of the elected government following constitutional procedures.
+§45. All Orders of continuous application shall remain binding after the inaugural General Election, provided they do not contravene the permanent constitution or are altered by an Act of the elected government following constitutional procedures.
 
 §46. The continuity of Orders ensures stability and predictability in governance, allowing for the seamless transition of policies and regulations from one administration to the next. However, should an elected government deem it necessary to amend or revoke an existing Order, it must do so through lawful procedures and with due consideration for the rights and interests of citizens.
 
