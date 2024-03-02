@@ -19,18 +19,31 @@ This zoning code is enacted to regulate land use within the jurisdiction of Saml
 
 ## Section 2: Zoning Districts
 
-### Article 1.1: Residential Zones
+### Article 2.1: Residential Zones
 
-#### § 1.1.1: R1 - Single-Family Residential
+#### § 2.1.1: R1 - Single Family Residential
 
-- **Setbacks**:
-  - Front: 7 meters
-  - Side: 6 meters
-  - Rear: 7 meters
-- **Maximum Height**: 11 meters
-- Permitted Uses: Single-family homes, home occupations, accessory structures.
+##### Purpose
 
-#### § 1.1.2: R2 - Multi-Family Residential
+The Single Family Residential district is intended to create and maintain areas for single family residential uses on individual lots and to provide for a variety of areas for single family neighbourhoods, along with certain additional uses.
+
+##### Permitted Uses
+
+- Single-family homes
+- home occupations
+- accessory structures
+
+##### Development Standards
+
+The standards in the following table shall apply in the R1 district; all are minimum standards unless otherwise noted
+
+| R1 Single Family Residential Development Standards                                                   |
+| ---------------------------------------------------------------------------------------------------- |
+| | Building Size (square meters)                                                                    | |
+| | ------------------------------------------------------------------------------------------------ | |
+| | ads | |
+
+#### § 2.1.2: R2 - Multi-Family Residential
 
 - **Setbacks**:
   - Front: 7 meters
@@ -39,9 +52,9 @@ This zoning code is enacted to regulate land use within the jurisdiction of Saml
 - **Maximum Height**: 14 meters
 - Permitted Uses: Apartment buildings, town-houses, duplexes.
 
-### Article 1.2: Commercial Zones
+### Article 2.2: Commercial Zones
 
-#### § 1.2.1: C1 - Neighbourhood Commercial
+#### § 2.2.1: C1 - Neighbourhood Commercial
 
 - **Setbacks**:
   - Front: 5 meters
@@ -50,7 +63,7 @@ This zoning code is enacted to regulate land use within the jurisdiction of Saml
 - **Maximum Height**: 11 meters
 - Permitted Uses: Convenience stores, restaurants, offices.
 
-#### § 1.2.2: C2 - General Commercial
+#### § 2.2.2: C2 - General Commercial
 
 - **Setbacks**:
   - Front: 7 meters
@@ -59,9 +72,9 @@ This zoning code is enacted to regulate land use within the jurisdiction of Saml
 - **Maximum Height**: 15 meters
 - Permitted Uses: Retail stores, service establishments, hotels.
 
-### Article 1.3: Industrial Zones
+### Article 2.3: Industrial Zones
 
-#### § 1.3.1: I1 - Light Industrial
+#### § 2.3.1: I1 - Light Industrial
 
 - **Setbacks**:
   - Front: 9 meters
@@ -70,7 +83,7 @@ This zoning code is enacted to regulate land use within the jurisdiction of Saml
 - **Maximum Height**: 12 meters
 - Permitted Uses: Manufacturing facilities, warehouses, research and development.
 
-#### § 1.3.2: I2 - Heavy Industrial
+#### § 2.3.2: I2 - Heavy Industrial
 
 - **Setbacks**:
   - Front: 12 meters
@@ -79,7 +92,7 @@ This zoning code is enacted to regulate land use within the jurisdiction of Saml
 - **Maximum Height**: 18 meters
 - Permitted Uses: Heavy manufacturing, processing plants.
 
-### Article 1.4: Agricultural Preservation
+### Article 2.4: Agricultural Preservation
 
 - **Setbacks**:
   - Front: 15 meters
@@ -88,7 +101,7 @@ This zoning code is enacted to regulate land use within the jurisdiction of Saml
 - **Maximum Height**: 11 meters
 - Permitted Uses: Farming, agricultural-related activities.
 
-### Article 1.5: Mixed-Use Zones
+### Article 2.5: Mixed-Use Zones
 
 - **Setbacks**:
   - Front: 5 meters
@@ -97,9 +110,9 @@ This zoning code is enacted to regulate land use within the jurisdiction of Saml
 - **Maximum Height**: 14 meters
 - Permitted Uses: Residential units, ground-floor retail.
 
-### Article 1.6: Environmental Protection Zones
+### Article 2.6: Environmental Protection Zones
 
-### Article 1.7: Historic Preservation Districts
+### Article 2.7: Historic Preservation Districts
 
 ## Section 5: Special Use Permits
 
